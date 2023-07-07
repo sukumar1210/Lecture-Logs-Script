@@ -1,2 +1,5 @@
 .vscode
 tests/
+*.exe
+*.txt
+*.dat

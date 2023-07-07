@@ -1,10 +1,11 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include <fstream>
 
 #define year 1
-#define sub 3
-#define day 2
+#define sub 7
+#define day 6
 #define pb push_back
 
 using namespace std;
@@ -22,13 +23,17 @@ void input(vector<vector<vector<vector<string>>>>& data){
             for(int k=0; k<day; k++){
                 cout<<"For day "<<k+1<<": \n";
                 data[i][j].pb(vector<string>());
-                int t;
+                int t=9;
                 for(int l=0; l<sub; l++){
+                    if(k==5 && (t+1)%12==2) {
+                        for(l; l<sub; l++) data[i][j][k].pb(string(""));
+                        break;
+                    }
                     string s;
-                    t=(10+l)%12;
+                    t=(t+1)%12;
                     if(t==0) t=12;
                     else if(t==2) t=3;
-                    cout<<t-1<<"-"<<t<<": ";
+                    cout<<(t-1!=0?t-1:12)<<"-"<<t<<": ";
                     cin>>s;
                     data[i][j][k].pb(s);
                 }
@@ -37,34 +42,38 @@ void input(vector<vector<vector<vector<string>>>>& data){
         }
     } 
 }
-string display(vector<vector<vector<vector<string>>>>& data){
+string display(vector<vector<vector<vector<string>>>>& data, bool export_=false){
     string o="";
-    o+="{\n";
+    o+=export_?"":"{\n";
     for(int i=0; i<year; i++){
-        o+="\t{\n";
+        o+=(export_?"":"\t{\n");
         for(int j=0; j<data[i].size(); j++){
-            o+="\t\t{\n";
+            o+=(export_?"":"\t\t{\n");
             for(int k=0; k<day; k++){
-                o+="\t\t\t{\n";
+                o+=(export_?"":"\t\t\t{\n");
                 for(int l=0; l<sub; l++){
-                    if (l!=sub-1) o+="\t\t\t\t"+data[i][j][k][l]+",\n";
-                    else o+="\t\t\t\t"+data[i][j][k][l]+"\n";
+                    if (l!=sub-1) o+=(export_?"":"\t\t\t\t\"")+data[i][j][k][l]+(export_?"":"\",")+"\n";
+                    else o+=(export_?"":"\t\t\t\t\"")+data[i][j][k][l]+(export_?"":"\"")+"\n";
                 }
-                if (k!=day-1) o+="\t\t\t},\n";
-                else o+="\t\t\t}\n";
+                if (k!=day-1) o+=(export_?"":"\t\t\t},\n");
+                else o+=(export_?"":"\t\t\t}\n");
             }
             if (j!=data[i].size()-1) o+="\t\t},\n";
-            else o+="\t\t}\n";
+            else o+=(export_?"":"\t\t")+string("\n");
         }
-        if (i!=year-1) o+="\t},\n";
-        else o+="\t}\n";
+        if (i!=year-1) o+=(export_?"":"\t},\n");
+        else o+=(export_?"":"\t}\n");
 
     }
-    o+="}\n\n";
+    o+=export_?"":"}\n\n";
     return o;
 }
-void export_json(){
-    cout<<"Not yet complete\n";
+void export_txt(vector<vector<vector<vector<string>>>>& data){
+    ofstream file;
+    cout<<"fuuuuuuuuu";
+    file.open("data.txt");
+    file<<display(data, true);
+    file.close();
 }
 int main(){
     vector<vector<vector<vector<string>>>> data;
@@ -83,7 +92,7 @@ int main(){
         cout<<"2. display"<<endl;
         cout<<"3. export"<<endl;
         cout<<"0. exit"<<endl;
-        cout<<"\nInput: ";
+        cout<<"\nOption: ";
         cin>>ch;
         switch (ch){
             case 0:
@@ -96,7 +105,7 @@ int main(){
                 cout<<display(data);
                 break;
             case 3:
-                export_json();
+                export_txt(data);
                 break;
             default:
                 cout<<"Invalid option\n\n";
