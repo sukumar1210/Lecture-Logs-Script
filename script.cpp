@@ -3,9 +3,9 @@
 #include <string>
 #include <fstream>
 
-#define year 1
-#define sub 7
+#define year 4
 #define day 6
+#define sub 7 //max classes in one day
 #define pb push_back
 
 using namespace std;
@@ -16,6 +16,7 @@ void input(vector<vector<vector<vector<string>>>>& data){
         cout<<"For year "<<i+1<<": \n";
         cout<<"Enter Number of batches: \n";
         cin>>batch;
+        cin.ignore(1,'\n');
         data.pb(vector<vector<vector<string>>>());
         for(int j=0; j<batch; j++){
             cout<<"For batch "<<j+1<<": \n";
@@ -34,7 +35,8 @@ void input(vector<vector<vector<vector<string>>>>& data){
                     if(t==0) t=12;
                     else if(t==2) t=3;
                     cout<<(t-1!=0?t-1:12)<<"-"<<t<<": ";
-                    cin>>s;
+                    getline(cin, s);
+                    // cin>>s;
                     data[i][j][k].pb(s);
                 }
                 cout<<endl;
@@ -58,8 +60,8 @@ string display(vector<vector<vector<vector<string>>>>& data, bool export_=false)
                 if (k!=day-1) o+=(export_?"":"\t\t\t},\n");
                 else o+=(export_?"":"\t\t\t}\n");
             }
-            if (j!=data[i].size()-1) o+="\t\t},\n";
-            else o+=(export_?"":"\t\t")+string("\n");
+            if (j!=data[i].size()-1) o+=(export_?"":"\t\t\t},\n");
+            else o+=(export_?"":"\t\t}")+string("\n");
         }
         if (i!=year-1) o+=(export_?"":"\t},\n");
         else o+=(export_?"":"\t}\n");
@@ -68,29 +70,95 @@ string display(vector<vector<vector<vector<string>>>>& data, bool export_=false)
     o+=export_?"":"}\n\n";
     return o;
 }
-void export_txt(vector<vector<vector<vector<string>>>>& data){
+string display_java(vector<vector<vector<vector<string>>>>& data, bool export_=false){
+    string o="";
+    o+=export_?"":"{\n";
+    for(int i=0; i<year; i++){
+        o+=(export_?"":"\t{\n");
+        for(int k=0; k<day; k++){
+            o+=(export_?"":"\t\t{\n");
+            for(int j=0; j<data[i].size(); j++){
+                o+=(export_?"":"\t\t\t{\n");
+                for(int l=0; l<sub; l++){
+                    if (l!=sub-1) o+=(export_?"":"\t\t\t\t\"")+data[i][j][k][l]+(export_?"":"\",")+"\n";
+                    else o+=(export_?"":"\t\t\t\t\"")+data[i][j][k][l]+(export_?"":"\"")+"\n";
+                }
+                if (j!=data[i].size()-1) o+=(export_?"":"\t\t\t},\n");
+                else o+=(export_?"":"\t\t\t}")+string("\n");
+            }
+            if (k!=day-1) o+=(export_?"":"\t\t},\n");
+            else o+=(export_?"":"\t\t}\n");
+        }
+        if (i!=year-1) o+=(export_?"":"\t},\n");
+        else o+=(export_?"":"\t}\n");
+
+    }
+    o+=export_?"":"}\n\n";
+    return o;
+}
+void export_txt(vector<vector<vector<vector<string>>>>& data, bool java=false){
     ofstream file;
-    cout<<"fuuuuuuuuu";
-    file.open("data.txt");
-    file<<display(data, true);
+    if (java) {
+        file.open("data.txt");
+        file<<display_java(data);
+    }
+    else {
+        file.open("save_new.txt");
+        for(int i=0; i<year; i++){
+            file<<data[i].size();
+            file<<"\n";
+        }
+        file<<display(data, true);
+    }
+    // file<<display(data, true);
     file.close();
+}
+void load(vector<vector<vector<vector<string>>>>& data){
+    data=vector<vector<vector<vector<string>>>>();
+    ifstream file;
+    file.open("save.txt");
+    // file.open("data.txt");
+    string s;
+    int head=0;
+    vector<int> y{18,0,0,0};
+    while(head<4){
+        getline(file, s);
+        // cout<<s<<endl;
+        head++;
+        y.pb(stoi(s));
+    }
+    
+    for(int i=0; i<year; i++){
+        data.pb(vector<vector<vector<string>>>());
+        for(int j=0; j<y[i]; j++){
+            data[i].pb(vector<vector<string>>());
+            for(int k=0; k<day; k++){
+                data[i][j].pb(vector<string>());
+                for(int l=0; l<sub; l++){
+                    getline(file, s);
+                    data[i][j][k].pb(s);
+                }
+            }
+        }
+    }
+
+    file.close();
+    cout<<"Data Loaded\n\n";
+}
+void bulk_mod(){
+    
 }
 int main(){
     vector<vector<vector<vector<string>>>> data;
     while(true){
         int ch;
-        // cout<<"Stats"<<endl;
-        // cout<<"year: "<<data.size()<<endl;
-        // if(data.size()!=0) {cout<<"batches: "<<data[0].size()<<endl;
-        // if(data[0].size()!=0) {cout<<"days: "<<data[0][0].size()<<endl;
-        // if(data[0][0].size()!=0) cout<<"subjects: "<<data[0][0][0].size()<<endl;}}
-
-
         cout<<"!!! Not yet Complete to be used, may show unreliable behaviour !!!"<<endl;
         cout<<"Menu:"<<endl;
         cout<<"1. Input"<<endl;
         cout<<"2. display"<<endl;
-        cout<<"3. export"<<endl;
+        cout<<"3. export Java Format"<<endl;
+        cout<<"4. load"<<endl;
+        cout<<"5. Save"<<endl;
         cout<<"0. exit"<<endl;
         cout<<"\nOption: ";
         cin>>ch;
@@ -99,13 +167,45 @@ int main(){
                 cout<<"exiting...\n";
                 return 0;
             case 1:
-                input(data);
+                int choice;
+                cout<<"1. Input All\n2. Modify in Bulk\nOption: ";
+                cin>>choice;
+                switch (choice){
+                    case 1:
+                        input(data);
+                        break;
+                    case 2:
+                        bulk_mod(data);
+                        break;
+                    default:
+                        break;
+                }
+                // input(data);
                 break;
             case 2:
-                cout<<display(data);
+                int choice;
+                cout<<"1. Normal\n2. Java\nOption: ";
+                cin>>choice;
+                switch (choice){
+                    case 1:
+                        display(data);
+                        break;
+                    case 2:
+                        display_java(data);
+                        break;
+                    default:
+                        break;
+                }
                 break;
             case 3:
+                export_txt(data, true);
+                break;
+            case 4:
+                load(data);
+                break;
+            case 5:
                 export_txt(data);
+                // cout<<data.size()<<endl<<data[0].size()<<endl<<data[0][0].size()<<endl<<data[0][0][0].size()<<endl;
                 break;
             default:
                 cout<<"Invalid option\n\n";
