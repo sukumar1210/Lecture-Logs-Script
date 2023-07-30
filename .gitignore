@@ -3,3 +3,5 @@ tests/
 *.exe
 *.txt
 *.dat
+!save.txt
+!data.txt

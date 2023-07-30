@@ -70,7 +70,7 @@ void export_txt(vector<vector<vector<vector<string>>>>& data, bool java=false){
         file<<display_java(data);
     }
     else {
-        file.open("save_new.txt");
+        file.open("save.txt");
         for(int i=0; i<year; i++){
             file<<data[i].size();
             file<<"\n";
@@ -126,7 +126,7 @@ void input(vector<vector<vector<vector<string>>>>& data, bool cont=false){
 void load(vector<vector<vector<vector<string>>>>& data){
     data=vector<vector<vector<vector<string>>>>();
     ifstream file;
-    file.open("save_new.txt");
+    file.open("save.txt");
     // file.open("data.txt");
     string s;
     int head=0;

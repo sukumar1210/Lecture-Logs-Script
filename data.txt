@@ -1,0 +1,1787 @@
+{
+	{
+		{
+			{
+				"Math - lt6",
+				"Eng - lt6",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"Workshop",
+				"Workshop",
+				""
+			},
+			{
+				"Phy Lab",
+				"Phy Lab",
+				"Phy - lt8",
+				"HVPE - lt8",
+				"",
+				"Math - lt7",
+				""
+			},
+			{
+				"Workshop",
+				"Workshop",
+				"SDF - lt6",
+				"Math - lt7",
+				"Phy Tut - cr6",
+				"HVPE - lt6",
+				""
+			},
+			{
+				"",
+				"SDF - lt6",
+				"Phy - lt6",
+				"Phy Lab",
+				"Phy Lab",
+				"Library",
+				"Math - lt6"
+			},
+			{
+				"",
+				"Eng Language Lab",
+				"Eng Language Lab",
+				"Math - lt8",
+				"Phy - lt8",
+				"",
+				""
+			},
+			{
+				"",
+				"Workshop - cr6",
+				"Library",
+				"Eng - lt6",
+				"Phy - lt6",
+				"Math - lt7",
+				""
+			},
+			{
+				"",
+				"",
+				"Workshop - cr2",
+				"HVPE - lt6",
+				"Eng language Lab",
+				"Eng language Lab",
+				""
+			},
+			{
+				"Workshop",
+				"",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"Eng - lt8",
+				"SDF - lt8",
+				"SDF Lab - lt8"
+			},
+			{
+				"SDF Tut - cr7",
+				"",
+				"SDF Tut - cr7",
+				"",
+				"SDF - lt6",
+				"Phy - lt6",
+				"Math Tut - cr7"
+			},
+			{
+				"SDF Lab - cl2",
+				"",
+				"",
+				"SDF - cr8",
+				"Phy - lt6",
+				"Phy Tut - cr7",
+				"Math Tut - cr3"
+			},
+			{
+				"HVPE - lt7",
+				"Math - lt7",
+				"",
+				"Phy Tut - cr6",
+				"Library",
+				"Eng - lt8",
+				"HVPE - lt8"
+			},
+			{
+				"Math Tut - cr3",
+				"Phy Tut - cr3",
+				"",
+				"Phy Lab",
+				"Phy Lab",
+				"Math - lt6",
+				"Phy - lt6"
+			},
+			{
+				"Workshop",
+				"Workshop",
+				"",
+				"",
+				"HVPE - lt6",
+				"Eng - lt6",
+				"SDF Lab - cl3"
+			},
+			{
+				"Phy Lab",
+				"Math Tut - cr6",
+				"Phy Tut - cr7",
+				"",
+				"Math - Tut - cr2",
+				"SDF Tut - cr2",
+				"Phy - lt8"
+			},
+			{
+				"Eng - lt9",
+				"Eng Language Lab",
+				"Eng Language Lab",
+				"",
+				"Eng Language Lab",
+				"Eng Language Lab",
+				"SDF - lt6"
+			},
+			{
+				"Eng - lt6",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"",
+				"",
+				"Phy - lt6",
+				"SDF - lt6"
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Workshop",
+				"Workshop"
+			},
+			{
+				"Math - lt9",
+				"Phy - lt9",
+				"",
+				"",
+				"",
+				"SDF Lab - cl4",
+				"SDF Lab - cl4"
+			}
+		},
+		{
+			{
+				"Math - lt6",
+				"Eng - lt6",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"Library",
+				"Phy Tut - cr2",
+				""
+			},
+			{
+				"Library",
+				"",
+				"Phy - lt8",
+				"HVPE - lt8",
+				"Workshop - cr3",
+				"Math - lt7",
+				""
+			},
+			{
+				"Eng Language Lab",
+				"Eng Language Lab",
+				"SDF - lt6",
+				"Math - lt7",
+				"SDF Tut - cr2",
+				"HVPE - lt6",
+				""
+			},
+			{
+				"",
+				"SDF - lt6",
+				"Phy - lt6",
+				"",
+				"",
+				"",
+				"Math - lt6"
+			},
+			{
+				"",
+				"Phy Tut - cr3",
+				"",
+				"Math - lt8",
+				"Phy - lt8",
+				"Workshop",
+				"Workshop"
+			},
+			{
+				"",
+				"Library",
+				"Workshop - cr4",
+				"Eng - lt6",
+				"Phy - lt6",
+				"Math - lt7",
+				""
+			},
+			{
+				"",
+				"",
+				"SDF Tut - cr8",
+				"HVPE - lt6",
+				"Workshop",
+				"Workshop",
+				"Eng Language Lab"
+			},
+			{
+				"SDf Lab - cl3",
+				"",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"Eng - lt8",
+				"SDF - lt8",
+				"SDF Lab - cl3"
+			},
+			{
+				"",
+				"",
+				"Phy Lab",
+				"Phy Lab",
+				"SDF - lt6",
+				"Phy - lt6",
+				""
+			},
+			{
+				"SDF - lt6",
+				"Math - lt6",
+				"",
+				"Workshop - cr2",
+				"Phy - lt6",
+				"Mat Tut - cr2",
+				""
+			},
+			{
+				"Workshop - cr6",
+				"",
+				"",
+				"Library",
+				"Math Tut - cr8",
+				"Eng - lt8",
+				"HVPE - lt8"
+			},
+			{
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"",
+				"Math Tut - cr3",
+				"",
+				"Math - lt6",
+				"Phy - lt6"
+			},
+			{
+				"SDF Lab - cl3",
+				"",
+				"Math - lt6",
+				"",
+				"HVPE - lt6",
+				"Eng - lt6",
+				"SDF Lab - cl3"
+			},
+			{
+				"Math - lt8",
+				"SDF - lt8",
+				"",
+				"",
+				"SDF Tut - cr6",
+				"",
+				"Phy - lt8"
+			},
+			{
+				"Eng - lt6",
+				"",
+				"",
+				"",
+				"Workshop",
+				"Workshop",
+				"SDF - lt6"
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Phy - lt6",
+				"SDF - lt6"
+			},
+			{
+				"SDF - lt8",
+				"Math - lt8",
+				"",
+				"",
+				"",
+				"Eng Language Lab",
+				"Eng Language Lab"
+			},
+			{
+				"Math - lt6",
+				"HVPE - lt6",
+				"",
+				"",
+				"",
+				"SDF Lab - cl4",
+				"SDF Lab - cl4"
+			}
+		},
+		{
+			{
+				"Math - lt6",
+				"Eng - lt6",
+				"Phy Lab",
+				"Phy Lab",
+				"Eng Language Lab",
+				"Eng Language Lab",
+				""
+			},
+			{
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"Phy - lt8",
+				"HVPE - lt8",
+				"",
+				"Math - lt8",
+				""
+			},
+			{
+				"Math Tut - cr7",
+				"LibraryLibrary",
+				"SDF - lt6",
+				"Math - lt7",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"SDF - lt6",
+				"Phy - lt6",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"SDF Tut - cr8",
+				"Math - lt6"
+			},
+			{
+				"",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"Math - lt8",
+				"Phy - lt8",
+				"Eng Language Lab",
+				"Eng Language Lab"
+			},
+			{
+				"",
+				"Phy Lab",
+				"Phy Lab",
+				"Eng - lt6",
+				"Phy - lt6",
+				"Math - lt6",
+				"Phy Tut - cr6"
+			},
+			{
+				"Eng Language Lab",
+				"",
+				"Phy Tut - cr6",
+				"HVPE - lt6",
+				"",
+				"Math Tut - cr8",
+				""
+			},
+			{
+				"SDF Lab - cl3",
+				"",
+				"Math Tut - cr3",
+				"",
+				"Eng - lt8",
+				"SDF - lt8",
+				""
+			},
+			{
+				"Phy Tut - cr6",
+				"",
+				"Library",
+				"Workshop - cr2",
+				"SDF - lt6",
+				"Phy - lt6",
+				"SDF Lab - cl2"
+			},
+			{
+				"SDF - lt6",
+				"Math - lt6",
+				"",
+				"Library",
+				"Phy - lt6",
+				"",
+				"Workshop - cr2"
+			},
+			{
+				"Phy Lab",
+				"Phy Lab",
+				"",
+				"Workshop",
+				"Workshop",
+				"Eng - lt8",
+				"HVPE - lt8"
+			},
+			{
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"",
+				"Eng Language Lab",
+				"Eng language Lab",
+				"Math - lt6",
+				"Phy - lt6"
+			},
+			{
+				"SDF Lab - cl3",
+				"",
+				"Math - lt6",
+				"",
+				"HVPE - lt6",
+				"Eng - lt6",
+				"Workshop"
+			},
+			{
+				"Math - lt8",
+				"SDF - lt8",
+				"",
+				"",
+				"Phy Lab",
+				"Phy Lab",
+				"Phy - lt8"
+			},
+			{
+				"Eng - lt6",
+				"",
+				"",
+				"",
+				"SDF - cr7",
+				"",
+				"SDF - lt6"
+			},
+			{
+				"Phy Lab",
+				"Phy Lab",
+				"",
+				"",
+				"",
+				"Phy - lt6",
+				"SDF - lt6"
+			},
+			{
+				"SDF - lt8",
+				"Math - lt8",
+				"",
+				"",
+				"",
+				"Phy Tut - cr3",
+				"Library"
+			},
+			{
+				"Math - lt6",
+				"HVPE - lt6",
+				"",
+				"",
+				"",
+				"Math - lt6",
+				""
+			}
+		},
+		{
+			{
+				"SDF - lt7",
+				"Phy - lt7",
+				"Workhop",
+				"Workhop",
+				"Mat Tut - cr8",
+				"Phy Tut - cr8",
+				""
+			},
+			{
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"SDF - lt9",
+				"Math - lt9",
+				"",
+				"SDF Tut - cr3",
+				""
+			},
+			{
+				"Math Tut - cr7",
+				"Library",
+				"SDF - lt6",
+				"Math - lt7",
+				"",
+				"HVPE - lt6",
+				""
+			},
+			{
+				"",
+				"SDF - lt7",
+				"Eng - lt7",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"Library",
+				"Workshop - cr2"
+			},
+			{
+				"",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"",
+				"",
+				"Eng - lt9",
+				"HVPE - lt9"
+			},
+			{
+				"",
+				"Phy Lab",
+				"Phy Lab",
+				"Eng - lt6",
+				"Phy - lt6",
+				"Math - lt7",
+				"Phy Tut - cr6"
+			},
+			{
+				"",
+				"",
+				"Math - lt7",
+				"Phy lt7",
+				"",
+				"",
+				"Phy Lab"
+			},
+			{
+				"Workshop - cr2",
+				"",
+				"Workshop",
+				"Workshop",
+				"SDF - lt9",
+				"Phy - lt9",
+				"HVPE - lt9"
+			},
+			{
+				"SDF Lab - cl2",
+				"",
+				"Library",
+				"Workshop - cr2",
+				"SDF - lt6",
+				"Phy - lt6",
+				"SDF Lab - cl2"
+			},
+			{
+				"SDF - lt6",
+				"Math - lt6",
+				"",
+				"SDF - lt7",
+				"Phy - lt7",
+				"Eng Language Lab",
+				"Eng Language Lab"
+			},
+			{
+				"",
+				"SDF Tut - cr2",
+				"",
+				"Workshop - cr7",
+				"Library",
+				"Math - lt9",
+				"Phy - lt9"
+			},
+			{
+				"Workshop",
+				"Workshop",
+				"",
+				"Eng Language Lab",
+				"Eng Language Lab",
+				"Math - lt6",
+				"Phy - lt6"
+			},
+			{
+				"Workhop",
+				"",
+				"Math - lt6",
+				"",
+				"Math - lt7",
+				"HVPE - lt7",
+				""
+			},
+			{
+				"Math - lt8",
+				"SDF - lt8",
+				"",
+				"",
+				"Phy Tut - cr3",
+				"Math - lt9",
+				"SDF - lt9"
+			},
+			{
+				"Eng - lt6",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"",
+				"SDF Tut - cr7",
+				"",
+				"SDF - lt6"
+			},
+			{
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"",
+				"",
+				"",
+				"Eng - lt7",
+				"Math - lt7"
+			},
+			{
+				"SDF - lt8",
+				"Math - lt8",
+				"",
+				"",
+				"",
+				"Phy Lab",
+				"Phy Lab"
+			},
+			{
+				"Math - lt6",
+				"HVPE - lt6",
+				"",
+				"",
+				"",
+				"",
+				""
+			}
+		},
+		{
+			{
+				"SDF - lt7",
+				"Math - lt7",
+				"Math Tut - cr7",
+				"",
+				"Phy Lab",
+				"Phy Lab",
+				""
+			},
+			{
+				"Workshop - cr2",
+				"SDF - lt9",
+				"Math - lt9",
+				"Phy - cr7",
+				"",
+				"",
+				""
+			},
+			{
+				"Math Tut - cr7",
+				"Library",
+				"SDF - lt6",
+				"Math - lt7",
+				"",
+				"HVPE - lt6",
+				""
+			},
+			{
+				"",
+				"SDF - lt7",
+				"Phy - lt7",
+				"Eng - lt7",
+				"ENg language Lab",
+				"Workshop - cr2",
+				"SDF Tut - cr7"
+			},
+			{
+				"",
+				"Workshop",
+				"Workshop",
+				"",
+				"",
+				"Eng - lt9",
+				"HVPE - lt9"
+			},
+			{
+				"",
+				"Phy Lab",
+				"Phy Lab",
+				"Eng - lt6",
+				"Phy - lt6",
+				"Math - lt7",
+				"Phy Tut - cr6"
+			},
+			{
+				"Phy Lab",
+				"",
+				"Math - lt7",
+				"Phy - lt7",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				""
+			},
+			{
+				"Math Tut - cr3",
+				"",
+				"Eng Language Lab",
+				"Eng Language Lab",
+				"SDF - lt9",
+				"Phy - lt9",
+				"HVPE - lt9"
+			},
+			{
+				"SDF Lab - cl2",
+				"",
+				"Library",
+				"Workshop - cr2",
+				"SDF - lt6",
+				"Phy - lt6",
+				"SDF Lab - cl2"
+			},
+			{
+				"HVPE - lt7",
+				"Math - lt7",
+				"",
+				"SDF - lt7",
+				"Phy - lt7",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3"
+			},
+			{
+				"Eng Language Lab",
+				"Eng Language Lab",
+				"",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"Math - lt9",
+				"Phy - lt9"
+			},
+			{
+				"Workshop",
+				"Workshop",
+				"",
+				"Eng Language Lab",
+				"Eng language Lab",
+				"Math - lt6",
+				"Phy - lt6"
+			},
+			{
+				"",
+				"",
+				"SDF Tut - cr8",
+				"",
+				"Math - lt7",
+				"HVPE - lt7",
+				""
+			},
+			{
+				"Eng - lt9",
+				"",
+				"",
+				"",
+				"SDF Tut - cr8",
+				"Math - lt9",
+				"SDF - lt9"
+			},
+			{
+				"Eng - lt6",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"",
+				"SDF Tut - cr7",
+				"",
+				"SDF - lt6"
+			},
+			{
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"",
+				"",
+				"",
+				"Eng - lt7",
+				"Math - lt7"
+			},
+			{
+				"Math - lt9",
+				"Phy - lt9",
+				"",
+				"",
+				"",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3"
+			},
+			{
+				"math - lt6",
+				"HVPE - lt6",
+				"",
+				"",
+				"",
+				"",
+				""
+			}
+		},
+		{
+			{
+				"SDF - lt7",
+				"Phy - lt7",
+				"Eng Language Lab",
+				"Eng Language Lab",
+				"",
+				"SDF Tut - cr6",
+				""
+			},
+			{
+				"Library",
+				"Workshop - cr2",
+				"SDF - lt9",
+				"Math - lt9",
+				"",
+				"",
+				""
+			},
+			{
+				"Math Tut - cr7",
+				"Library",
+				"SDF - lt6",
+				"Math - lt7",
+				"",
+				"HVPE - lt6",
+				""
+			},
+			{
+				"",
+				"SDF - lt7",
+				"Eng - lt7",
+				"Workshop - cr2",
+				"Library",
+				"",
+				""
+			},
+			{
+				"",
+				"Library",
+				"",
+				"Workshop",
+				"Workshop",
+				"Eng - lt9",
+				"HVPE - lt9"
+			},
+			{
+				"",
+				"Phy Lab",
+				"Phy Lab",
+				"Eng - lt6",
+				"Phy - lt6",
+				"Math - lt7",
+				"Phy Tut - cr6"
+			},
+			{
+				"",
+				"",
+				"Math - lt7",
+				"Phy - lt7",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"Workshop"
+			},
+			{
+				"",
+				"",
+				"Phy Lab",
+				"Phy Lab",
+				"SDF - lt9",
+				"Phy - lt9",
+				"HVPE - lt9"
+			},
+			{
+				"SDF Lab - cl2",
+				"",
+				"Library",
+				"Workshop - cr2",
+				"SDF - lt6",
+				"Phy - lt6",
+				"SDF Lab - cl2"
+			},
+			{
+				"HVPE - lt7",
+				"Math - lt7",
+				"",
+				"SDF - lt7",
+				"Phy - lt7",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3"
+			},
+			{
+				"Phy Lab",
+				"Phy Lab",
+				"",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"Math - lt9",
+				"Phy - lt9"
+			},
+			{
+				"Workshop",
+				"Workshop",
+				"",
+				"Eng Language Lab",
+				"Eng Language Lab",
+				"math - lt6",
+				"Phy - lt6"
+			},
+			{
+				"",
+				"Workshop",
+				"Workshop",
+				"",
+				"Math - lt7",
+				"HVPE - lt7",
+				"Phy Lab"
+			},
+			{
+				"Eng - lt9",
+				"Math Tut - cr7",
+				"Library",
+				"",
+				"",
+				"Math - lt9",
+				"SDF - lt9"
+			},
+			{
+				"Eng - lt6",
+				"SDF Lab - cl3",
+				"SDF Lab - cl3",
+				"",
+				"SDF Tut - cr7",
+				"",
+				"SDF - lt6"
+			},
+			{
+				"Phy Tut - cr6",
+				"Library",
+				"",
+				"",
+				"",
+				"Eng - lt7",
+				"Math - lt7"
+			},
+			{
+				"Math - lt9",
+				"Phy - lt9",
+				"",
+				"",
+				"",
+				"SDF Lab - cl3",
+				"SDf Lab - cl3"
+			},
+			{
+				"Math - lt6",
+				"HVPE - lt6",
+				"",
+				"",
+				"",
+				"",
+				""
+			}
+		}
+	},
+	{
+		{
+			{
+				"",
+				"",
+				"",
+				"DS Lab - cl4",
+				"DS Lab - cl4",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"DS Lab - cl4",
+				"DS Lab - cl4",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"DS Tut cr12",
+				"DSM Tut - cr15",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"",
+				"",
+				"DS Lab - cl4",
+				"DS Lab - cl4"
+			},
+			{
+				"",
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"",
+				"",
+				"DS Lab - cl4",
+				"DS Lab - cl4"
+			},
+			{
+				"",
+				"DSM Lab",
+				"DSM Lab",
+				"",
+				"",
+				"PCP - cr25",
+				"PCP - cr25"
+			},
+			{
+				"",
+				"TDM Tut - cr11",
+				"DS Tut - cr12",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"DSM Tut - cr15",
+				"",
+				"",
+				"",
+				"",
+				"DS Tut - cr12"
+			},
+			{
+				"",
+				"",
+				"DSM Tut - cr15",
+				"",
+				"",
+				"UI/UX Lab- cl2",
+				"UI/UX Lab - cl2"
+			},
+			{
+				"",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"",
+				"",
+				"DSM Lab",
+				"DSM Lab"
+			},
+			{
+				"",
+				"DS Tut - cr12",
+				"",
+				"",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1"
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1"
+			}
+		},
+		{
+			{
+				"",
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"",
+				"",
+				"DSM Lab",
+				"DSM Lab"
+			},
+			{
+				"",
+				"AP Lab - cl2",
+				"AP Lab - cl4",
+				"",
+				"",
+				"DS Tut - cr12",
+				""
+			},
+			{
+				"",
+				"DSM Lab",
+				"DSM Lab",
+				"",
+				"",
+				"PCP - cr25",
+				"PCP - cr25"
+			},
+			{
+				"",
+				"UX/UI Lab - cl2",
+				"UI/UX Lab - cl2",
+				"",
+				"",
+				"PCP - cr25",
+				"PCP - cr3"
+			},
+			{
+				"",
+				"TDM Tut - cr11",
+				"DSM Tut - cr15",
+				"",
+				"",
+				"AP Lab - cl4",
+				"AP Lab - cl4"
+			},
+			{
+				"",
+				"",
+				"",
+				"DSM Lab",
+				"DSM Lab",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1"
+			},
+			{
+				"",
+				"",
+				"",
+				"DS Tut - cr12",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1"
+			},
+			{
+				"",
+				"",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				"",
+				"DS Tut - cr12"
+			},
+			{
+				"",
+				"",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"AP Lab - cl4",
+				"AP Lab - cl4"
+			},
+			{
+				"",
+				"",
+				"",
+				"DS Lab - cl4",
+				"DS Lab - cl4",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"DS Lab - cl4",
+				"DS Lab - cl4",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"PCP - cr25",
+				"PCP - cr25",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"PCP - cr25",
+				"PCP - cr25",
+				"",
+				""
+			}
+		},
+		{
+			{
+				"",
+				"",
+				"",
+				"TDM Tut - cr11",
+				"DS Tut - cr12",
+				"PCP - cr25",
+				"PCP - cr25"
+			},
+			{
+				"",
+				"",
+				"",
+				"UI/UX Lab - cl2",
+				"UI/UC Lab - cl2",
+				"PCP - cr25",
+				"PCP - cr25"
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"DS Lab - cl4",
+				"DS Lab - cl4"
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"DS Lab - cl4",
+				"DS Lab - cl4"
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1"
+			},
+			{
+				"",
+				"DSM Tut - cr15",
+				"DS Tut - cr12",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"TDM Tut - cr11",
+				"",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"DSM Lab",
+				"DSM Lab",
+				"",
+				"",
+				"DS Tut - cr12",
+				""
+			},
+			{
+				"",
+				"DS Tut - cr12",
+				"DSM Tut - cr15",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"DSM Tut - cr15",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"TDM Tut - cr11",
+				""
+			}
+		},
+		{
+			{
+				"",
+				"DSM Tut - cr15",
+				"",
+				"",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1"
+			},
+			{
+				"",
+				"DSM Lab",
+				"DSM Lab",
+				"",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1"
+			},
+			{
+				"",
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"",
+				"",
+				"DS Tut - cr12",
+				"TDM Tut - cr11"
+			},
+			{
+				"",
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"",
+				"",
+				"DSM Lab",
+				"DSM Lab"
+			},
+			{
+				"",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"",
+				"",
+				"PCP - cr25",
+				"PCP - cr25"
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"TDM Tut - cr11",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"DSM Lab",
+				"DSM Lab",
+				"",
+				"DSM Tut - cr15"
+			},
+			{
+				"",
+				"",
+				"",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"DS Lab - cl4",
+				"DS Lab - cl4"
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"DS Lab - cl4",
+				"DS Lab - cl4"
+			},
+			{
+				"",
+				"",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				"PCP - cr15",
+				"PCP - cr15"
+			},
+			{
+				"",
+				"TDM Tut - cr11",
+				"",
+				"PCP - cr25",
+				"PCP - cr25",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"PCP - cr25",
+				"PCP - cr25",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"DS Lab - cl4",
+				"DS Lab - cl4",
+				"",
+				""
+			},
+			{
+				"",
+				"DS Tut - cr12",
+				"",
+				"DS Lab - cl4",
+				"DS Lab - cl4",
+				"",
+				""
+			}
+		},
+		{
+			{
+				"",
+				"",
+				"",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"DSM Tut - cr15",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1"
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"DSM Lab",
+				"DSM Lab",
+				"DS Lab - cl4",
+				"DS Lab - cl4"
+			},
+			{
+				"",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"",
+				"",
+				"PCP - cr25",
+				"PCP - cr25"
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"PCP - cr25",
+				"PCP - cr25"
+			},
+			{
+				"",
+				"DSM Tut - cr15",
+				"",
+				"",
+				"",
+				"",
+				"TDM Tut - cr11"
+			},
+			{
+				"",
+				"DSM Lab",
+				"DSM Lab",
+				"",
+				"",
+				"",
+				"DSM Tut - cr15"
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"DS Lab - cl4",
+				"DS Lab - cl4"
+			},
+			{
+				"",
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"",
+				"",
+				"TDM Tut - cr11",
+				""
+			},
+			{
+				"",
+				"TDM Tut - cr11",
+				"",
+				"",
+				"",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2"
+			},
+			{
+				"",
+				"",
+				"DSM Tut - cr15",
+				"",
+				"",
+				"DSM Lab",
+				"DSM Lab"
+			}
+		},
+		{
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"TDM Tut - cr11",
+				"",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"DSM Tut - cr15",
+				"",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"DS Tut - cr12",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"TDM Tut - cr27",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"DSM Lab",
+				"DSM Lab",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				"",
+				""
+			},
+			{
+				"",
+				"DSM Lab",
+				"DSM Lab",
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"",
+				""
+			},
+			{
+				"",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"",
+				""
+			}
+		}
+	},
+	{
+		{
+		},
+		{
+		},
+		{
+		},
+		{
+		},
+		{
+		},
+		{
+		}
+	},
+	{
+		{
+		},
+		{
+		},
+		{
+		},
+		{
+		},
+		{
+		},
+		{
+		}
+	}
+}
+
