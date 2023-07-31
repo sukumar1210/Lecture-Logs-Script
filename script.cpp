@@ -28,7 +28,7 @@ string display(vector<vector<vector<vector<string>>>>& data, bool export_=false)
                 else o+=(export_?"":"\t\t\t}\n");
             }
             if (j!=data[i].size()-1) o+=(export_?"":"\t\t\t},\n");
-            else o+=(export_?"":"\t\t}")+string("\n");
+            else o+=(export_?"":"\t\t}\n");
         }
         if (i!=year-1) o+=(export_?"":"\t},\n");
         else o+=(export_?"":"\t}\n");
@@ -51,7 +51,7 @@ string display_java(vector<vector<vector<vector<string>>>>& data, bool export_=f
                     else o+=(export_?"":"\t\t\t\t\"")+data[i][j][k][l]+(export_?"":"\"")+"\n";
                 }
                 if (j!=data[i].size()-1) o+=(export_?"":"\t\t\t},\n");
-                else o+=(export_?"":"\t\t\t}")+string("\n");
+                else o+=(export_?"":"\t\t\t}\n");
             }
             if (k!=day-1) o+=(export_?"":"\t\t},\n");
             else o+=(export_?"":"\t\t}\n");
@@ -119,7 +119,7 @@ void input(vector<vector<vector<vector<string>>>>& data, bool cont=false){
                 }
                 cout<<endl;
             }
-            export_txt(data);
+            if (data.size()==4) export_txt(data);
         }
     } 
 }
@@ -135,18 +135,28 @@ void load(vector<vector<vector<vector<string>>>>& data){
         getline(file, s);
         // cout<<s<<endl;
         head++;
+        cout<<s<<endl;
         y.pb(stoi(s));
     }
-    
     for(int i=0; i<year; i++){
         data.pb(vector<vector<vector<string>>>());
         for(int j=0; j<y[i]; j++){
             data[i].pb(vector<vector<string>>());
             for(int k=0; k<day; k++){
                 data[i][j].pb(vector<string>());
+                
+            }
+        }
+    }
+    
+    for(int i=0; i<year; i++){
+        for(int j=0; j<y[i]; j++){
+            for(int k=0; k<day; k++){
+                data[i][j].pb(vector<string>());
                 for(int l=0; l<sub; l++){
                     getline(file, s);
                     data[i][j][k].pb(s);
+                    cout<<"here\n";
                 }
             }
         }
@@ -167,7 +177,7 @@ void bulk_mod( vector<vector<vector<vector<string>>>>& data ){
         cout<<"No Years Present: Please Use the Input option first\n\n";
         return;
     }
-    cout<<"Enter number of Batch groups: ";
+    cout<<"Enter number of Batches in groups: ";
     cin>>n;
     if (data[i].size()==0){
         cout<<"No Batches in current year: Please Use the Input option first\n\n";
@@ -187,7 +197,7 @@ void bulk_mod( vector<vector<vector<vector<string>>>>& data ){
             string s;
             t=(t+1)%12;
             if(t==0) t=12;
-            else if(t==2) t=3;
+            else if(t==2) break;
             cout<<(t-1!=0?t-1:12)<<"-"<<t<<": ";
             getline(cin, s);
             if (s=="") continue;
