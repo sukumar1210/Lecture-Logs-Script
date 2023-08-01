@@ -194,10 +194,11 @@ void bulk_mod( vector<vector<vector<vector<string>>>>& data ){
         cout<<"For day "<<k+1<<": \n";
         int t=9;
         for(int l=0; l<sub; l++){
+            if(k==5 && (t+1)%12==2) break;
             string s;
             t=(t+1)%12;
             if(t==0) t=12;
-            else if(t==2) break;
+            else if(t==2) t=3;
             cout<<(t-1!=0?t-1:12)<<"-"<<t<<": ";
             getline(cin, s);
             if (s=="") continue;

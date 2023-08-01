@@ -1,88 +1,760 @@
-2
+18
 0
 0
 0
-mon
-mon
-mon
-mon
-mon
-mon
-mon
-tue
-tue
-tue
-tue
-tue
-tue
-tue
-wed
-wed
-wed
-wed
-wed
-wed
-wed
-thur
-thur
-thur
-thur
-thur
-thur
-thur
-fri
-fri
-fri
-fri
-fri
-fri
-fri
-sat
-sat
-sat
-sat
+Math - lt6
+Eng - lt6
+SDF Lab - cl3
+SDF Lab - cl3
+Workshop
+Workshop
+
+SDF - lt6
+Phy - lt6
+Phy Lab
+Phy Lab
+Library
+Math - lt6
+
+Workshop - cr2
+HVPE - lt6
+ENG Lang Lab
+ENG Lang Lab
 
 
 
-mon2
-mon2
-mon2
-mon2
-mon2
-mon2
-mon2
-tue2
-tue2
-tue2
-tue2
-tue2
-tue2
-tue2
-wed2
-wed2
-wed2
-wed2
-wed2
-wed2
-wed2
-thur2
-thur2
-thur2
-thur2
-thur2
-thur2
-thur2
-fri2
-fri2
-fri2
-fri2
-fri2
-fri2
-fri2
-sat2
-sat2
-sat2
-sat2
+SDF Tut - cr8
+Phy - lt6
+Phy Tut - cr7
+Math Tut - cr3
+SDF - lt6
+Math - lt6
+
+HVPE - lt6
+ENG - lt6
+SDF Lab - cl3
+SDF Lab - cl3
+
+Math - lt6
+
+Phy - lt6
+SDF - lt6
+
+
+
+
+
+Math - lt6
+Eng - lt6
+SDF Lab - cl3
+SDF Lab - cl3
+Library
+Phy tut - cr2
+
+SDF - lt6
+Phy - lt6
+
+
+
+Math - lt6
+
+SDF Tut - cr8
+HVPE - lt6
+Workshop
+Workshop
+ENG Lang Lab
+ENG Lang Lab
+
+Workshop - cr2
+Phy - lt6
+Math Tut - cr2
+
+SDF - lt6
+Math - lt6
+
+HVPE - lt6
+ENG - lt6
+SDF Lab - cl3
+SDF Lab - cl3
+
+Math - lt6
+
+Phy - lt6
+SDF - lt6
+Phy Lab
+Phy Lab
+
+
+
+Math - lt6
+Eng - lt6
+Phy Lab
+Phy Lab
+ENG Lang Lab
+ENG Lang Lab
+
+SDF - lt6
+Phy - lt6
+SDF Lab - cl3
+SDF Lab - cl3
+SDF Tut - cr8
+Math - lt6
+
+Phy Tut - cr6
+HVPE - lt6
+
+Math Tut - cr8
+
+
+
+Library
+Phy - lt6
+
+Workshop - cr2
+SDF - lt6
+Math - lt6
+
+HVPE - lt6
+ENG - lt6
+Workshop
+Workshop
+
+Math - lt6
+
+Phy - lt6
+SDF - lt6
+SDF Lab - cl3
+SDF Lab - cl3
+
+
+
+SDF - lt7
+Phy - lt7
+Workshop
+Workshop
+Math 
+Phy Tut - cr8
+
+SDF - lt7
+Eng - lt7
+SDF Lab - cl3
+SDF Lab - cl3
+Library
+Workshop - cr2
+
+Math - lt7
+Phy - lt7
+
+
+Phy Lab
+Phy Lab
+
+SDF - lt7
+Phy - lt7
+ENG Lang Lab
+ENG Lang Lab
+HVPE - lt7
+Math - lt7
+
+Math - lt7
+HVPE - lt7
+
+
+
+SDF Tut - cr8
+
+Eng - lt7
+Math - lt7
+SDF Lab - cl3
+SDF Lab - cl3
+
+
+
+SDF - lt7
+Phy - lt7
+Math Tut - cr7
+
+Phy Lab
+Phy Lab
+
+SDF - lt7
+Eng - lt7
+ENG Lang Lab
+ENG Lang Lab
+Workshop - cr2
+SDF Tut - cr7
+
+Math - lt7
+Phy - lt7
+SDF Lab - cl3
+SDF Lab - cl3
+
+
+
+SDF - lt7
+Phy - lt7
+SDF Lab - cl3
+SDF Lab - cl3
+HVPE - lt7
+Math - lt7
+
+Math - lt7
+HVPE - lt7
+
+
+Workshop
+Workshop
+
+Eng - lt7
+Math - lt7
+Phy Tut - cr6
+Library
+
+
+
+SDF - lt7
+Phy - lt7
+ENG Lang Lab
+ENG Lang Lab
+
+SDF Tut - cr6
+
+SDF - lt7
+Eng - lt7
+Workshop - cr2
+Library
+
+
+
+Math - lt7
+Phy - lt7
+SDF Lab - cl3
+SDF Lab - cl3
+Workshop
+Workshop
+
+SDF - lt7
+Phy - lt7
+SDF Lab - cl3
+SDF Lab - cl3
+HVPE - lt7
+Math - lt7
+
+Math - lt7
+HVPE - lt7
+Phy Lab
+Phy Lab
+Math Tut - cr6
+Phy Tut - cr7
+
+Eng - lt7
+Math - lt7
+
+
+
+
+
+Phy Lab
+Phy Lab
+Phy - lt8
+HVPE - lt8
+
+Math - lt7
+
+ENG Lang Lab
+ENG Lang Lab
+Math - lt8
+Phy - lt8
+
+
+
+SDF Lab - cl3
+SDF Lab - cl3
+Eng - lt8
+SDF - lt8
+SDF Lab - cl3
+SDF Lab - cl3
+
+Phy Tut - cr6
+Library
+Eng - lt8
+HVPE - lt8
+Workshop - cr6
+
+
+Math Tut - cr2
+SDF Tut - cr2
+Phy - lt8
+Math - lt8
+SDF - lt8
+
+
+Workshop
+Workshop
+SDF - lt8
+Math - lt8
+
+
+
+Library
+
+Phy - lt8
+HVPE - lt8
+Workshop - cr3
+Math - lt7
+
+Phy Tut - cr3
+
+Math - lt8
+Phy - lt8
+Workshop
+Workshop
+
+SDF Lab - cl3
+SDF Lab - cl3
+Eng - lt8
+SDF - lt8
+SDF Lab - cl3
+SDF Lab - cl3
+
+Library
+Math Tut - cr8
+Eng - lt8
+HVPE - lt8
+Phy Lab
+Phy Lab
+
+SDF Tut - cr6
+
+Phy - lt8
+Math - lt8
+SDF - lt8
+
+
+ENG Lang Lab
+ENG Lang Lab
+SDF - lt8
+Math - lt8
+
+
+
+SDF Lab - cl3
+SDF Lab - cl3
+Phy - lt8
+HVPE - lt8
+
+Math - lt7
+
+SDF Lab - cl3
+SDF Lab - cl3
+Math - lt8
+Phy - lt8
+ENG Lang Lab
+ENG Lang Lab
+
+Math Tut - cr3
+
+Eng - lt8
+SDF - lt8
+
+Workshop - cr2
+
+Workshop
+Workshop
+Eng - lt8
+HVPE - lt8
+
+SDF Tut - cr2
+
+Phy Lab
+Phy Lab
+Phy - lt8
+Math - lt8
+SDF - lt8
+
+
+Phy Tut - cr3
+Library
+SDF - lt8
+Math - lt8
+
+
+
+SDF Lab - cl3
+SDF Lab - cl3
+SDF - lt9
+Math - lt9
+
+SDF Tut - cr3
+
+SDF Lab - cl3
+SDF Lab - cl3
+
+
+Eng - lt9
+HVPE - lt9
+
+Workshop
+Workshop
+SDF - lt9
+Phy - lt9
+HVPE - lt9
+Math Tut - cr3
+
+Workshop - cr7
+Library
+Math - lt9
+Phy - lt9
+ENG Lang Lab
+ENG Lang Lab
+
+Phy Tut - cr3
+Math - lt9
+SDF - lt9
+Eng - lt9
+
+
+
+Phy Lab
+Phy Lab
+Math - lt9
+Phy - lt9
+
+
+
+Workshop - cr2
+
+SDF - lt9
+Math - lt9
+Phy Tut - cr7
+
+
+Workshop
+Workshop
+
+
+Eng - lt9
+HVPE - lt9
+
+ENG Lang Lab
+ENG Lang Lab
+SDF - lt9
+Phy - lt9
+HVPE - lt9
+
+
+SDF Lab - cl3
+SDF Lab - cl3
+Math - lt9
+Phy - lt9
+Phy Lab
+Phy Lab
+
+SDF Tut - cr8
+Math - lt9
+SDF - lt9
+Eng - lt9
+Math Tut - cr7
+Library
+
+SDF Lab - cl3
+SDF Lab - cl3
+Math - lt9
+Phy - lt9
+
+
+
+Library
+Workshop - cr2
+SDF - lt9
+Math - lt9
+
+
+
+Library
+
+Workshop
+Workshop
+Eng - lt9
+HVPE - lt9
+
+Phy Lab
+Phy Lab
+SDF - lt9
+Phy - lt9
+HVPE - lt9
+SDF Tut - cr7
+
+SDF Lab - cl3
+SDF Lab - cl3
+Math - lt9
+Phy - lt9
+Math Tut - cr3
+Phy Tut - cr3
+
+
+Math - lt9
+SDF - lt9
+Eng - lt9
+ENG Lang Lab
+ENG Lang Lab
+
+SDF Lab - cl3
+SDF Lab - cl3
+Math - lt9
+Phy - lt9
+
+
+
+Workshop
+Workshop
+SDF - lt6
+Math - lt7
+Phy Tut - cr6
+HVPE - lt6
+
+Workshop - cr6
+Library
+Eng - lt6
+Phy - lt6
+Math - lt7
+
+
+SDF Tut - cr7
+
+SDF - lt6
+Phy - lt6
+Math Tut - cr7
+
+
+Phy Lab
+Phy Lab
+Math - lt6
+Phy - lt6
+SDF Lab - cl3
+SDF Lab - cl3
+
+ENG Lang Lab
+ENG Lang Lab
+SDF - lt6
+Eng - lt6
+
+
+
+SDF Lab - cl3
+SDF Lab - cl3
+Math - lt6
+HVPE - lt6
+
+
+
+ENG Lang Lab
+ENG Lang Lab
+SDF - lt6
+Math - lt7
+SDF Tut - cr2
+HVPE - lt6
+
+Library
+Workshop - cr4
+Eng - lt6
+Phy - lt6
+Math - lt7
+
+
+Phy Lab
+Phy Lab
+SDF - lt6
+Phy - lt6
+
+Phy Tut - cr6
+
+Math Tut - cr3
+
+Math - lt6
+Phy - lt6
+SDF Lab - cl3
+SDF Lab - cl3
+
+Workshop
+Workshop
+SDF - lt6
+Eng - lt6
+
+
+
+SDF Lab - cl3
+SDF Lab - cl3
+Math - lt6
+HVPE - lt6
+
+
+
+Math Tut - cr7
+Library
+SDF - lt6
+Math - lt7
+
+HVPE - lt6
+
+Phy Lab
+Phy Lab
+Eng - lt6
+Phy - lt6
+Math - lt7
+
+
+Library
+Workshop - cr2
+SDF - lt6
+Phy - lt6
+SDF Lab - cl2
+SDF Lab - cl2
+
+ENG Lang Lab
+ENG Lang Lab
+Math - lt6
+Phy - lt6
+Workshop
+Workshop
+
+SDF Tut - cr7
+
+SDF - lt6
+Eng - lt6
+SDF Lab - cl3
+SDF Lab - cl3
+
+
+
+Math - lt6
+HVPE - lt6
+
+
+
+Math Tut - cr7
+Library
+SDF - lt6
+Math - lt7
+
+HVPE - lt6
+
+Phy Lab
+Phy Lab
+Eng - lt6
+Phy - lt6
+Math - lt7
+
+
+Library
+Workshop - cr2
+SDF - lt6
+Phy - lt6
+SDF Lab - cl2
+SDF Lab - cl2
+
+ENG Lang Lab
+ENG Lang Lab
+Math - lt6
+Phy - lt6
+Workshop
+Workshop
+
+SDF Tut - cr7
+
+SDF - lt6
+Eng - lt6
+SDF Lab - cl3
+SDF Lab - cl3
+
+
+
+Math - lt6
+HVPE - lt6
+
+
+
+Math Tut - cr7
+Library
+SDF - lt6
+Math - lt7
+
+HVPE - lt6
+
+Phy Lab
+Phy Lab
+Eng - lt6
+Phy - lt6
+Math - lt7
+
+
+Library
+Workshop - cr2
+SDF - lt6
+Phy - lt6
+SDF Lab - cl2
+SDF Lab - cl2
+
+ENG Lang Lab
+ENG Lang Lab
+Math - lt6
+Phy - lt6
+Workshop
+Workshop
+
+SDF Tut - cr7
+
+SDF - lt6
+Eng - lt6
+SDF Lab - cl3
+SDF Lab - cl3
+
+
+
+Math - lt6
+HVPE - lt6
+
+
+
+Math Tut - cr7
+Library
+SDF - lt6
+Math - lt7
+
+HVPE - lt6
+
+Phy Lab
+Phy Lab
+Eng - lt6
+Phy - lt6
+Math - lt7
+
+
+Library
+Workshop - cr2
+SDF - lt6
+Phy - lt6
+SDF Lab - cl2
+SDF Lab - cl2
+
+ENG Lang Lab
+ENG Lang Lab
+Math - lt6
+Phy - lt6
+Workshop
+Workshop
+
+SDF Tut - cr7
+
+SDF - lt6
+Eng - lt6
+SDF Lab - cl3
+SDF Lab - cl3
+
+
+
+Math - lt6
+HVPE - lt6
 
 
 
