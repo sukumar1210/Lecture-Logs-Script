@@ -156,7 +156,7 @@ void load(vector<vector<vector<vector<string>>>>& data){
                 for(int l=0; l<sub; l++){
                     getline(file, s);
                     data[i][j][k].pb(s);
-                    cout<<"here\n";
+                    // cout<<"here\n";
                 }
             }
         }

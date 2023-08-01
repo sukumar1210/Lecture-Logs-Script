@@ -987,16 +987,772 @@
 	},
 	{
 		{
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"DS Lab - cl4",
+				"DS Lab - cl4",
+				"AP Lab - lt5",
+				"ES - lt5",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"DS Lab - cl4",
+				"DS Lab - cl4",
+				"AP Lab - lt5",
+				"ES - lt5",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"AP Lab - lt5",
+				"ES - lt5",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"DS Tut - cr12",
+				"DSM Tut - cr15",
+				"AP Lab - lt5",
+				"ES - lt5",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"",
+				"",
+				"AP Lab - lt5",
+				"ES - lt5",
+				""
+			},
+			{
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"DSM - lt5",
+				"TDM - lt5",
+				"DS Lab - cl4",
+				"DS Lab - cl4",
+				""
+			},
+			{
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"DSM - lt5",
+				"TDM - lt5",
+				"DS Lab - cl4",
+				"DS Lab - cl4",
+				""
+			},
+			{
+				"DSM Lab",
+				"DSM Lab",
+				"DSM - lt5",
+				"TDM - lt5",
+				"PCP - cr25",
+				"PCP - cr25",
+				""
+			},
+			{
+				"TDM Tut - cr11",
+				"DS Tut - cr12",
+				"DSM - lt5",
+				"TDM - lt5",
+				"PCP - cr25",
+				"PCP - cr25",
+				""
+			},
+			{
+				"DSM Tut - cr15",
+				"",
+				"DSM - lt5",
+				"TDM - lt5",
+				"",
+				"DS Tut - cr12",
+				""
+			},
+			{
+				"",
+				"DSM Tut - cr15",
+				"DS - lt1",
+				"DBMS - lt1",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				""
+			},
+			{
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"DS - lt1",
+				"DBMS - lt1",
+				"DSM Lab",
+				"DSM Lab",
+				""
+			},
+			{
+				"DS Tut - cr12",
+				"",
+				"DS - lt1",
+				"DBMS - lt1",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				""
+			},
+			{
+				"",
+				"",
+				"DS - lt1",
+				"DBMS - lt1",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				""
+			}
 		},
 		{
+			{
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"DSM - lt5",
+				"TDM - lt5",
+				"DSM Lab",
+				"DSM Lab",
+				""
+			},
+			{
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"DSM - lt5",
+				"TDM - lt5",
+				"DS Tut - cr12",
+				"",
+				""
+			},
+			{
+				"DSM Lab",
+				"DSM Lab",
+				"DSM - lt5",
+				"TDM - lt5",
+				"PCP - cr25",
+				"PCP - cr25",
+				""
+			},
+			{
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"DSM - lt5",
+				"TDM - lt5",
+				"PCP - cr25",
+				"PCP - cr25",
+				""
+			},
+			{
+				"TDM Tut - cr11",
+				"DSM Tut - cr15",
+				"DSM - lt5",
+				"TDM - lt5",
+				"",
+				"",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"DSM Lab",
+				"DSM Lab",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"DS Tut - cr12",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				"",
+				"DS Tut - cr12",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				"",
+				"",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"",
+				"",
+				""
+			},
+			{
+				"ES - lt1",
+				"TDM - lt1",
+				"DS Lab - cl4",
+				"DS Lab - cl4",
+				"ES - lt1",
+				"DSM - lt5",
+				""
+			},
+			{
+				"ES - lt1",
+				"TDM - lt1",
+				"DS Lab - cl4",
+				"DS Lab - cl4",
+				"ES - lt1",
+				"DSM - lt5",
+				""
+			},
+			{
+				"ES - lt1",
+				"TDM - lt1",
+				"PCP - cr25",
+				"PCP - cr25",
+				"ES - lt1",
+				"DSM - lt5",
+				""
+			},
+			{
+				"ES - lt1",
+				"TDM - lt1",
+				"PCP - cr25",
+				"PCP - cr25",
+				"ES - lt1",
+				"DSM - lt5",
+				""
+			}
 		},
 		{
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"TDM Tut - cr11",
+				"DS Tut - cr12",
+				"PCP - cr25",
+				"PCP - cr25",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"PCP - cr25",
+				"PCP - cr25",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"",
+				"",
+				"DS Lab - cl4",
+				"DS Lab - cl4",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"",
+				"",
+				"DS Lab - cl4",
+				"DS Lab - cl4",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				""
+			},
+			{
+				"DSM Tut - cr15",
+				"DS Tut - cr12",
+				"DSM - lt5",
+				"TDM - lt5",
+				"AP Lab - lt5",
+				"ES - lt5",
+				""
+			},
+			{
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"DSM - lt5",
+				"TDM - lt5",
+				"AP Lab - lt5",
+				"ES - lt5",
+				""
+			},
+			{
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"DSM - lt5",
+				"TDM - lt5",
+				"AP Lab - lt5",
+				"ES - lt5",
+				""
+			},
+			{
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"DSM - lt5",
+				"TDM - lt5",
+				"AP Lab - lt5",
+				"ES - lt5",
+				""
+			},
+			{
+				"TDM Tut - cr11",
+				"",
+				"DSM - lt5",
+				"TDM - lt5",
+				"AP Lab - lt5",
+				"ES - lt5",
+				""
+			},
+			{
+				"DSM Lab",
+				"DSM Lab",
+				"DS - lt1",
+				"DBMS - lt1",
+				"DS Tut - cr12",
+				"DSM - lt1",
+				""
+			},
+			{
+				"DS Tut - cr12",
+				"DSM Tut - cr15",
+				"DS - lt1",
+				"DBMS - lt1",
+				"",
+				"DSM - lt1",
+				""
+			},
+			{
+				"",
+				"",
+				"DS - lt1",
+				"DBMS - lt1",
+				"DSM Tut - cr15",
+				"DSM - lt1",
+				""
+			},
+			{
+				"",
+				"",
+				"DS - lt1",
+				"DBMS - lt1",
+				"TDM Tut - cr11",
+				"DSM - lt1",
+				""
+			}
 		},
 		{
+			{
+				"DSM Tut - cr15",
+				"",
+				"DSM - lt5",
+				"TDM - lt5",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				""
+			},
+			{
+				"DSM Lab",
+				"DSM Lab",
+				"DSM - lt5",
+				"TDM - lt5",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				""
+			},
+			{
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"DSM - lt5",
+				"TDM - lt5",
+				"DS Tut - cr12",
+				"TDM Tut - cr11",
+				""
+			},
+			{
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"DSM - lt5",
+				"TDM - lt5",
+				"DSM Lab",
+				"DSM Lab",
+				""
+			},
+			{
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"DSM - lt5",
+				"TDM - lt5",
+				"",
+				"",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS- lt5",
+				"",
+				"",
+				"TDM Tut - cr11",
+				"",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS- lt5",
+				"DSM Lab",
+				"DSM Lab",
+				"",
+				"DSM Tut - cr15",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS- lt5",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"DS Lab - cl4",
+				"DS Lab - cl4",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS- lt5",
+				"",
+				"",
+				"DS Lab - cl4",
+				"DS Lab - cl4",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS- lt5",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				"",
+				"",
+				""
+			},
+			{
+				"TDM Tut - cr11",
+				"TDM - lt1",
+				"",
+				"PCP - cr25",
+				"AP Lab - lt1",
+				"DSM - lt1",
+				""
+			},
+			{
+				"",
+				"TDM - lt1",
+				"",
+				"PCP - cr25",
+				"AP Lab - lt1",
+				"DSM - lt1",
+				""
+			},
+			{
+				"",
+				"TDM - lt1",
+				"",
+				"DS Lab - cl4",
+				"AP Lab - lt1",
+				"DSM - lt1",
+				""
+			},
+			{
+				"DS Tut - cr12",
+				"TDM - lt1",
+				"",
+				"DS Lab - cl4",
+				"AP Lab - lt1",
+				"DSM - lt1",
+				""
+			}
 		},
 		{
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"",
+				"",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"",
+				"DSM Tut - cr15",
+				"",
+				"",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"DSM Lab",
+				"DSM Lab",
+				"",
+				"",
+				""
+			},
+			{
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"DSM - lt5",
+				"ES - lt5",
+				"PCP - cr25",
+				"PCP - cr25",
+				""
+			},
+			{
+				"",
+				"",
+				"DSM - lt5",
+				"ES - lt5",
+				"PCP - cr25",
+				"PCP - cr25",
+				""
+			},
+			{
+				"DSM Tut - cr15",
+				"",
+				"DSM - lt5",
+				"ES - lt5",
+				"",
+				"TDM Tut - cr11",
+				""
+			},
+			{
+				"DSM Lab",
+				"DSM Lab",
+				"DSM - lt5",
+				"ES - lt5",
+				"",
+				"DSM Tut - cr15",
+				""
+			},
+			{
+				"",
+				"",
+				"DSM - lt5",
+				"ES - lt5",
+				"",
+				"",
+				""
+			},
+			{
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"DS - lt1",
+				"DBMS - lt1",
+				"",
+				"",
+				""
+			},
+			{
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"DS - lt1",
+				"DBMS - lt1",
+				"",
+				"",
+				""
+			},
+			{
+				"TDM Tut - cr11",
+				"",
+				"DS - lt1",
+				"DBMS - lt1",
+				"",
+				"UI/UX Lab - cl2",
+				""
+			},
+			{
+				"",
+				"DSM Tut - cr15",
+				"DS - lt1",
+				"DBMS - lt1",
+				"",
+				"DSM Lab",
+				""
+			}
 		},
 		{
+			{
+				"",
+				"",
+				"DSM - lt5",
+				"ES - lt5",
+				"",
+				"",
+				""
+			},
+			{
+				"TDM Tut - cr11",
+				"",
+				"DSM - lt5",
+				"ES - lt5",
+				"",
+				"",
+				""
+			},
+			{
+				"DSM Tut - cr15",
+				"",
+				"DSM - lt5",
+				"ES - lt5",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"TDM Tut - cr11",
+				"DSM - lt5",
+				"ES - lt5",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"DS Tut - cr12",
+				"DSM - lt5",
+				"ES - lt5",
+				"",
+				"",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"",
+				"TDM Tut - cr11",
+				"",
+				"",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"",
+				"",
+				"",
+				"",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"",
+				"",
+				""
+			},
+			{
+				"DS - lt5",
+				"DBMS - lt5",
+				"DSM Lab",
+				"DSM Lab",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				"",
+				"",
+				""
+			},
+			{
+				"",
+				"",
+				"DBMS Lab - cl1",
+				"DBMS Lab - cl1",
+				"",
+				"",
+				""
+			},
+			{
+				"DSM Lab",
+				"DSM Lab",
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"",
+				"",
+				""
+			},
+			{
+				"UI/UX Lab - cl2",
+				"UI/UX Lab - cl2",
+				"AP Lab - cl4",
+				"AP Lab - cl4",
+				"",
+				"",
+				""
+			}
 		}
 	},
 	{
