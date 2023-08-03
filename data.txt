@@ -8,7 +8,7 @@
 				"SDF Lab - cl3",
 				"Workshop",
 				"Workshop",
-				""
+				null
 			},
 			{
 				"Math - lt6",
@@ -17,7 +17,7 @@
 				"SDF Lab - cl3",
 				"Library",
 				"Phy tut - cr2",
-				""
+				null
 			},
 			{
 				"Math - lt6",
@@ -26,7 +26,7 @@
 				"Phy Lab",
 				"ENG Lang Lab",
 				"ENG Lang Lab",
-				""
+				null
 			},
 			{
 				"SDF - lt7",
@@ -35,79 +35,79 @@
 				"Workshop",
 				"Math ",
 				"Phy Tut - cr8",
-				""
+				null
 			},
 			{
 				"SDF - lt7",
 				"Phy - lt7",
 				"Math Tut - cr7",
-				"",
+				null,
 				"Phy Lab",
 				"Phy Lab",
-				""
+				null
 			},
 			{
 				"SDF - lt7",
 				"Phy - lt7",
 				"ENG Lang Lab",
 				"ENG Lang Lab",
-				"",
+				null,
 				"SDF Tut - cr6",
-				""
+				null
 			},
 			{
 				"Phy Lab",
 				"Phy Lab",
 				"Phy - lt8",
 				"HVPE - lt8",
-				"",
+				null,
 				"Math - lt7",
-				""
+				null
 			},
 			{
 				"Library",
-				"",
+				null,
 				"Phy - lt8",
 				"HVPE - lt8",
 				"Workshop - cr3",
 				"Math - lt7",
-				""
+				null
 			},
 			{
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
 				"Phy - lt8",
 				"HVPE - lt8",
-				"",
+				null,
 				"Math - lt7",
-				""
+				null
 			},
 			{
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
 				"SDF - lt9",
 				"Math - lt9",
-				"",
+				null,
 				"SDF Tut - cr3",
-				""
+				null
 			},
 			{
 				"Workshop - cr2",
-				"",
+				null,
 				"SDF - lt9",
 				"Math - lt9",
 				"Phy Tut - cr7",
-				"",
-				""
+				null,
+				null
 			},
 			{
 				"Library",
 				"Workshop - cr2",
 				"SDF - lt9",
 				"Math - lt9",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"Workshop",
@@ -116,7 +116,7 @@
 				"Math - lt7",
 				"Phy Tut - cr6",
 				"HVPE - lt6",
-				""
+				null
 			},
 			{
 				"ENG Lang Lab",
@@ -125,43 +125,43 @@
 				"Math - lt7",
 				"SDF Tut - cr2",
 				"HVPE - lt6",
-				""
+				null
 			},
 			{
 				"Math Tut - cr7",
 				"Library",
 				"SDF - lt6",
 				"Math - lt7",
-				"",
+				null,
 				"HVPE - lt6",
-				""
+				null
 			},
 			{
 				"Math Tut - cr7",
 				"Library",
 				"SDF - lt6",
 				"Math - lt7",
-				"",
+				null,
 				"HVPE - lt6",
-				""
+				null
 			},
 			{
 				"Math Tut - cr7",
 				"Library",
 				"SDF - lt6",
 				"Math - lt7",
-				"",
+				null,
 				"HVPE - lt6",
-				""
+				null
 			},
 			{
 				"Math Tut - cr7",
 				"Library",
 				"SDF - lt6",
 				"Math - lt7",
-				"",
+				null,
 				"HVPE - lt6",
-				""
+				null
 			}
 		},
 		{
@@ -172,16 +172,16 @@
 				"Phy Lab",
 				"Library",
 				"Math - lt6",
-				""
+				null
 			},
 			{
 				"SDF - lt6",
 				"Phy - lt6",
-				"",
-				"",
-				"",
+				null,
+				null,
+				null,
 				"Math - lt6",
-				""
+				null
 			},
 			{
 				"SDF - lt6",
@@ -190,7 +190,7 @@
 				"SDF Lab - cl3",
 				"SDF Tut - cr8",
 				"Math - lt6",
-				""
+				null
 			},
 			{
 				"SDF - lt7",
@@ -199,7 +199,7 @@
 				"SDF Lab - cl3",
 				"Library",
 				"Workshop - cr2",
-				""
+				null
 			},
 			{
 				"SDF - lt7",
@@ -208,34 +208,34 @@
 				"ENG Lang Lab",
 				"Workshop - cr2",
 				"SDF Tut - cr7",
-				""
+				null
 			},
 			{
 				"SDF - lt7",
 				"Eng - lt7",
 				"Workshop - cr2",
 				"Library",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"ENG Lang Lab",
 				"ENG Lang Lab",
 				"Math - lt8",
 				"Phy - lt8",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"Phy Tut - cr3",
-				"",
+				null,
 				"Math - lt8",
 				"Phy - lt8",
 				"Workshop",
 				"Workshop",
-				""
+				null
 			},
 			{
 				"SDF Lab - cl3",
@@ -244,34 +244,34 @@
 				"Phy - lt8",
 				"ENG Lang Lab",
 				"ENG Lang Lab",
-				""
+				null
 			},
 			{
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
-				"",
-				"",
+				null,
+				null,
 				"Eng - lt9",
 				"HVPE - lt9",
-				""
+				null
 			},
 			{
 				"Workshop",
 				"Workshop",
-				"",
-				"",
+				null,
+				null,
 				"Eng - lt9",
 				"HVPE - lt9",
-				""
+				null
 			},
 			{
 				"Library",
-				"",
+				null,
 				"Workshop",
 				"Workshop",
 				"Eng - lt9",
 				"HVPE - lt9",
-				""
+				null
 			},
 			{
 				"Workshop - cr6",
@@ -279,8 +279,8 @@
 				"Eng - lt6",
 				"Phy - lt6",
 				"Math - lt7",
-				"",
-				""
+				null,
+				null
 			},
 			{
 				"Library",
@@ -288,8 +288,8 @@
 				"Eng - lt6",
 				"Phy - lt6",
 				"Math - lt7",
-				"",
-				""
+				null,
+				null
 			},
 			{
 				"Phy Lab",
@@ -297,8 +297,8 @@
 				"Eng - lt6",
 				"Phy - lt6",
 				"Math - lt7",
-				"",
-				""
+				null,
+				null
 			},
 			{
 				"Phy Lab",
@@ -306,8 +306,8 @@
 				"Eng - lt6",
 				"Phy - lt6",
 				"Math - lt7",
-				"",
-				""
+				null,
+				null
 			},
 			{
 				"Phy Lab",
@@ -315,8 +315,8 @@
 				"Eng - lt6",
 				"Phy - lt6",
 				"Math - lt7",
-				"",
-				""
+				null,
+				null
 			},
 			{
 				"Phy Lab",
@@ -324,8 +324,8 @@
 				"Eng - lt6",
 				"Phy - lt6",
 				"Math - lt7",
-				"",
-				""
+				null,
+				null
 			}
 		},
 		{
@@ -334,9 +334,9 @@
 				"HVPE - lt6",
 				"ENG Lang Lab",
 				"ENG Lang Lab",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"SDF Tut - cr8",
@@ -345,34 +345,34 @@
 				"Workshop",
 				"ENG Lang Lab",
 				"ENG Lang Lab",
-				""
+				null
 			},
 			{
 				"Phy Tut - cr6",
 				"HVPE - lt6",
-				"",
+				null,
 				"Math Tut - cr8",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"Math - lt7",
 				"Phy - lt7",
-				"",
-				"",
+				null,
+				null,
 				"Phy Lab",
 				"Phy Lab",
-				""
+				null
 			},
 			{
 				"Math - lt7",
 				"Phy - lt7",
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"Math - lt7",
@@ -381,7 +381,7 @@
 				"SDF Lab - cl3",
 				"Workshop",
 				"Workshop",
-				""
+				null
 			},
 			{
 				"SDF Lab - cl3",
@@ -390,7 +390,7 @@
 				"SDF - lt8",
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
-				""
+				null
 			},
 			{
 				"SDF Lab - cl3",
@@ -399,16 +399,16 @@
 				"SDF - lt8",
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
-				""
+				null
 			},
 			{
 				"Math Tut - cr3",
-				"",
+				null,
 				"Eng - lt8",
 				"SDF - lt8",
-				"",
+				null,
 				"Workshop - cr2",
-				""
+				null
 			},
 			{
 				"Workshop",
@@ -417,7 +417,7 @@
 				"Phy - lt9",
 				"HVPE - lt9",
 				"Math Tut - cr3",
-				""
+				null
 			},
 			{
 				"ENG Lang Lab",
@@ -425,8 +425,8 @@
 				"SDF - lt9",
 				"Phy - lt9",
 				"HVPE - lt9",
-				"",
-				""
+				null,
+				null
 			},
 			{
 				"Phy Lab",
@@ -435,25 +435,25 @@
 				"Phy - lt9",
 				"HVPE - lt9",
 				"SDF Tut - cr7",
-				""
+				null
 			},
 			{
 				"SDF Tut - cr7",
-				"",
+				null,
 				"SDF - lt6",
 				"Phy - lt6",
 				"Math Tut - cr7",
-				"",
-				""
+				null,
+				null
 			},
 			{
 				"Phy Lab",
 				"Phy Lab",
 				"SDF - lt6",
 				"Phy - lt6",
-				"",
+				null,
 				"Phy Tut - cr6",
-				""
+				null
 			},
 			{
 				"Library",
@@ -462,7 +462,7 @@
 				"Phy - lt6",
 				"SDF Lab - cl2",
 				"SDF Lab - cl2",
-				""
+				null
 			},
 			{
 				"Library",
@@ -471,7 +471,7 @@
 				"Phy - lt6",
 				"SDF Lab - cl2",
 				"SDF Lab - cl2",
-				""
+				null
 			},
 			{
 				"Library",
@@ -480,7 +480,7 @@
 				"Phy - lt6",
 				"SDF Lab - cl2",
 				"SDF Lab - cl2",
-				""
+				null
 			},
 			{
 				"Library",
@@ -489,7 +489,7 @@
 				"Phy - lt6",
 				"SDF Lab - cl2",
 				"SDF Lab - cl2",
-				""
+				null
 			}
 		},
 		{
@@ -500,25 +500,25 @@
 				"Math Tut - cr3",
 				"SDF - lt6",
 				"Math - lt6",
-				""
+				null
 			},
 			{
 				"Workshop - cr2",
 				"Phy - lt6",
 				"Math Tut - cr2",
-				"",
+				null,
 				"SDF - lt6",
 				"Math - lt6",
-				""
+				null
 			},
 			{
 				"Library",
 				"Phy - lt6",
-				"",
+				null,
 				"Workshop - cr2",
 				"SDF - lt6",
 				"Math - lt6",
-				""
+				null
 			},
 			{
 				"SDF - lt7",
@@ -527,7 +527,7 @@
 				"ENG Lang Lab",
 				"HVPE - lt7",
 				"Math - lt7",
-				""
+				null
 			},
 			{
 				"SDF - lt7",
@@ -536,7 +536,7 @@
 				"SDF Lab - cl3",
 				"HVPE - lt7",
 				"Math - lt7",
-				""
+				null
 			},
 			{
 				"SDF - lt7",
@@ -545,7 +545,7 @@
 				"SDF Lab - cl3",
 				"HVPE - lt7",
 				"Math - lt7",
-				""
+				null
 			},
 			{
 				"Phy Tut - cr6",
@@ -553,8 +553,8 @@
 				"Eng - lt8",
 				"HVPE - lt8",
 				"Workshop - cr6",
-				"",
-				""
+				null,
+				null
 			},
 			{
 				"Library",
@@ -563,16 +563,16 @@
 				"HVPE - lt8",
 				"Phy Lab",
 				"Phy Lab",
-				""
+				null
 			},
 			{
 				"Workshop",
 				"Workshop",
 				"Eng - lt8",
 				"HVPE - lt8",
-				"",
+				null,
 				"SDF Tut - cr2",
-				""
+				null
 			},
 			{
 				"Workshop - cr7",
@@ -581,7 +581,7 @@
 				"Phy - lt9",
 				"ENG Lang Lab",
 				"ENG Lang Lab",
-				""
+				null
 			},
 			{
 				"SDF Lab - cl3",
@@ -590,7 +590,7 @@
 				"Phy - lt9",
 				"Phy Lab",
 				"Phy Lab",
-				""
+				null
 			},
 			{
 				"SDF Lab - cl3",
@@ -599,7 +599,7 @@
 				"Phy - lt9",
 				"Math Tut - cr3",
 				"Phy Tut - cr3",
-				""
+				null
 			},
 			{
 				"Phy Lab",
@@ -608,16 +608,16 @@
 				"Phy - lt6",
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
-				""
+				null
 			},
 			{
 				"Math Tut - cr3",
-				"",
+				null,
 				"Math - lt6",
 				"Phy - lt6",
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
-				""
+				null
 			},
 			{
 				"ENG Lang Lab",
@@ -626,7 +626,7 @@
 				"Phy - lt6",
 				"Workshop",
 				"Workshop",
-				""
+				null
 			},
 			{
 				"ENG Lang Lab",
@@ -635,7 +635,7 @@
 				"Phy - lt6",
 				"Workshop",
 				"Workshop",
-				""
+				null
 			},
 			{
 				"ENG Lang Lab",
@@ -644,7 +644,7 @@
 				"Phy - lt6",
 				"Workshop",
 				"Workshop",
-				""
+				null
 			},
 			{
 				"ENG Lang Lab",
@@ -653,7 +653,7 @@
 				"Phy - lt6",
 				"Workshop",
 				"Workshop",
-				""
+				null
 			}
 		},
 		{
@@ -662,45 +662,45 @@
 				"ENG - lt6",
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
-				"",
+				null,
 				"Math - lt6",
-				""
+				null
 			},
 			{
 				"HVPE - lt6",
 				"ENG - lt6",
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
-				"",
+				null,
 				"Math - lt6",
-				""
+				null
 			},
 			{
 				"HVPE - lt6",
 				"ENG - lt6",
 				"Workshop",
 				"Workshop",
-				"",
+				null,
 				"Math - lt6",
-				""
+				null
 			},
 			{
 				"Math - lt7",
 				"HVPE - lt7",
-				"",
-				"",
-				"",
+				null,
+				null,
+				null,
 				"SDF Tut - cr8",
-				""
+				null
 			},
 			{
 				"Math - lt7",
 				"HVPE - lt7",
-				"",
-				"",
+				null,
+				null,
 				"Workshop",
 				"Workshop",
-				""
+				null
 			},
 			{
 				"Math - lt7",
@@ -709,7 +709,7 @@
 				"Phy Lab",
 				"Math Tut - cr6",
 				"Phy Tut - cr7",
-				""
+				null
 			},
 			{
 				"Math Tut - cr2",
@@ -717,17 +717,17 @@
 				"Phy - lt8",
 				"Math - lt8",
 				"SDF - lt8",
-				"",
-				""
+				null,
+				null
 			},
 			{
 				"SDF Tut - cr6",
-				"",
+				null,
 				"Phy - lt8",
 				"Math - lt8",
 				"SDF - lt8",
-				"",
-				""
+				null,
+				null
 			},
 			{
 				"Phy Lab",
@@ -735,17 +735,17 @@
 				"Phy - lt8",
 				"Math - lt8",
 				"SDF - lt8",
-				"",
-				""
+				null,
+				null
 			},
 			{
 				"Phy Tut - cr3",
 				"Math - lt9",
 				"SDF - lt9",
 				"Eng - lt9",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"SDF Tut - cr8",
@@ -754,234 +754,234 @@
 				"Eng - lt9",
 				"Math Tut - cr7",
 				"Library",
-				""
+				null
 			},
 			{
-				"",
+				null,
 				"Math - lt9",
 				"SDF - lt9",
 				"Eng - lt9",
 				"ENG Lang Lab",
 				"ENG Lang Lab",
-				""
+				null
 			},
 			{
 				"ENG Lang Lab",
 				"ENG Lang Lab",
 				"SDF - lt6",
 				"Eng - lt6",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"Workshop",
 				"Workshop",
 				"SDF - lt6",
 				"Eng - lt6",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"SDF Tut - cr7",
-				"",
+				null,
 				"SDF - lt6",
 				"Eng - lt6",
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
-				""
+				null
 			},
 			{
 				"SDF Tut - cr7",
-				"",
+				null,
 				"SDF - lt6",
 				"Eng - lt6",
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
-				""
+				null
 			},
 			{
 				"SDF Tut - cr7",
-				"",
+				null,
 				"SDF - lt6",
 				"Eng - lt6",
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
-				""
+				null
 			},
 			{
 				"SDF Tut - cr7",
-				"",
+				null,
 				"SDF - lt6",
 				"Eng - lt6",
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
-				""
+				null
 			}
 		},
 		{
 			{
 				"Phy - lt6",
 				"SDF - lt6",
-				"",
-				"",
-				"",
-				"",
-				""
+				null,
+				null,
+				null,
+				null,
+				null
 			},
 			{
 				"Phy - lt6",
 				"SDF - lt6",
 				"Phy Lab",
 				"Phy Lab",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"Phy - lt6",
 				"SDF - lt6",
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"Eng - lt7",
 				"Math - lt7",
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"Eng - lt7",
 				"Math - lt7",
 				"Phy Tut - cr6",
 				"Library",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"Eng - lt7",
 				"Math - lt7",
-				"",
-				"",
-				"",
-				"",
-				""
+				null,
+				null,
+				null,
+				null,
+				null
 			},
 			{
 				"Workshop",
 				"Workshop",
 				"SDF - lt8",
 				"Math - lt8",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"ENG Lang Lab",
 				"ENG Lang Lab",
 				"SDF - lt8",
 				"Math - lt8",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"Phy Tut - cr3",
 				"Library",
 				"SDF - lt8",
 				"Math - lt8",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"Phy Lab",
 				"Phy Lab",
 				"Math - lt9",
 				"Phy - lt9",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
 				"Math - lt9",
 				"Phy - lt9",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
 				"Math - lt9",
 				"Phy - lt9",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
 				"Math - lt6",
 				"HVPE - lt6",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"SDF Lab - cl3",
 				"SDF Lab - cl3",
 				"Math - lt6",
 				"HVPE - lt6",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
-				"",
-				"",
+				null,
+				null,
 				"Math - lt6",
 				"HVPE - lt6",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
-				"",
-				"",
+				null,
+				null,
 				"Math - lt6",
 				"HVPE - lt6",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
-				"",
-				"",
+				null,
+				null,
 				"Math - lt6",
 				"HVPE - lt6",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
-				"",
-				"",
+				null,
+				null,
 				"Math - lt6",
 				"HVPE - lt6",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			}
 		}
 	},
@@ -994,7 +994,7 @@
 				"DS Lab - cl4",
 				"AP Lab - lt5",
 				"ES - lt5",
-				""
+				null
 			},
 			{
 				"DS - lt5",
@@ -1003,7 +1003,7 @@
 				"DS Lab - cl4",
 				"AP Lab - lt5",
 				"ES - lt5",
-				""
+				null
 			},
 			{
 				"DS - lt5",
@@ -1012,7 +1012,7 @@
 				"UI/UX Lab - cl2",
 				"AP Lab - lt5",
 				"ES - lt5",
-				""
+				null
 			},
 			{
 				"DS - lt5",
@@ -1021,16 +1021,16 @@
 				"DSM Tut - cr15",
 				"AP Lab - lt5",
 				"ES - lt5",
-				""
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS - lt5",
-				"",
-				"",
+				null,
+				null,
 				"AP Lab - lt5",
 				"ES - lt5",
-				""
+				null
 			},
 			{
 				"AP Lab - cl4",
@@ -1039,7 +1039,7 @@
 				"TDM - lt5",
 				"DS Lab - cl4",
 				"DS Lab - cl4",
-				""
+				null
 			},
 			{
 				"AP Lab - cl4",
@@ -1048,7 +1048,7 @@
 				"TDM - lt5",
 				"DS Lab - cl4",
 				"DS Lab - cl4",
-				""
+				null
 			},
 			{
 				"DSM Lab",
@@ -1057,7 +1057,7 @@
 				"TDM - lt5",
 				"PCP - cr25",
 				"PCP - cr25",
-				""
+				null
 			},
 			{
 				"TDM Tut - cr11",
@@ -1066,25 +1066,25 @@
 				"TDM - lt5",
 				"PCP - cr25",
 				"PCP - cr25",
-				""
+				null
 			},
 			{
 				"DSM Tut - cr15",
-				"",
+				null,
 				"DSM - lt5",
 				"TDM - lt5",
-				"",
+				null,
 				"DS Tut - cr12",
-				""
+				null
 			},
 			{
-				"",
+				null,
 				"DSM Tut - cr15",
 				"DS - lt1",
 				"DBMS - lt1",
 				"UI/UX Lab - cl2",
 				"UI/UX Lab - cl2",
-				""
+				null
 			},
 			{
 				"UI/UX Lab - cl2",
@@ -1093,25 +1093,25 @@
 				"DBMS - lt1",
 				"DSM Lab",
 				"DSM Lab",
-				""
+				null
 			},
 			{
 				"DS Tut - cr12",
-				"",
+				null,
 				"DS - lt1",
 				"DBMS - lt1",
 				"DBMS Lab - cl1",
 				"DBMS Lab - cl1",
-				""
+				null
 			},
 			{
-				"",
-				"",
+				null,
+				null,
 				"DS - lt1",
 				"DBMS - lt1",
 				"DBMS Lab - cl1",
 				"DBMS Lab - cl1",
-				""
+				null
 			}
 		},
 		{
@@ -1122,7 +1122,7 @@
 				"TDM - lt5",
 				"DSM Lab",
 				"DSM Lab",
-				""
+				null
 			},
 			{
 				"AP Lab - cl4",
@@ -1130,8 +1130,8 @@
 				"DSM - lt5",
 				"TDM - lt5",
 				"DS Tut - cr12",
-				"",
-				""
+				null,
+				null
 			},
 			{
 				"DSM Lab",
@@ -1140,7 +1140,7 @@
 				"TDM - lt5",
 				"PCP - cr25",
 				"PCP - cr25",
-				""
+				null
 			},
 			{
 				"UI/UX Lab - cl2",
@@ -1149,16 +1149,16 @@
 				"TDM - lt5",
 				"PCP - cr25",
 				"PCP - cr25",
-				""
+				null
 			},
 			{
 				"TDM Tut - cr11",
 				"DSM Tut - cr15",
 				"DSM - lt5",
 				"TDM - lt5",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"DS - lt5",
@@ -1167,43 +1167,43 @@
 				"DSM Lab",
 				"DBMS Lab - cl1",
 				"DBMS Lab - cl1",
-				""
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS - lt5",
 				"DS Tut - cr12",
-				"",
+				null,
 				"DBMS Lab - cl1",
 				"DBMS Lab - cl1",
-				""
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS - lt5",
 				"DBMS Lab - cl1",
 				"DBMS Lab - cl1",
-				"",
+				null,
 				"DS Tut - cr12",
-				""
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS - lt5",
 				"DBMS Lab - cl1",
 				"DBMS Lab - cl1",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS - lt5",
 				"UI/UX Lab - cl2",
 				"UI/UX Lab - cl2",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"ES - lt1",
@@ -1212,7 +1212,7 @@
 				"DS Lab - cl4",
 				"ES - lt1",
 				"DSM - lt5",
-				""
+				null
 			},
 			{
 				"ES - lt1",
@@ -1221,7 +1221,7 @@
 				"DS Lab - cl4",
 				"ES - lt1",
 				"DSM - lt5",
-				""
+				null
 			},
 			{
 				"ES - lt1",
@@ -1230,7 +1230,7 @@
 				"PCP - cr25",
 				"ES - lt1",
 				"DSM - lt5",
-				""
+				null
 			},
 			{
 				"ES - lt1",
@@ -1239,7 +1239,7 @@
 				"PCP - cr25",
 				"ES - lt1",
 				"DSM - lt5",
-				""
+				null
 			}
 		},
 		{
@@ -1250,7 +1250,7 @@
 				"DS Tut - cr12",
 				"PCP - cr25",
 				"PCP - cr25",
-				""
+				null
 			},
 			{
 				"DS - lt5",
@@ -1259,34 +1259,34 @@
 				"UI/UX Lab - cl2",
 				"PCP - cr25",
 				"PCP - cr25",
-				""
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS - lt5",
-				"",
-				"",
+				null,
+				null,
 				"DS Lab - cl4",
 				"DS Lab - cl4",
-				""
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS - lt5",
-				"",
-				"",
+				null,
+				null,
 				"DS Lab - cl4",
 				"DS Lab - cl4",
-				""
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS - lt5",
-				"",
-				"",
+				null,
+				null,
 				"DBMS Lab - cl1",
 				"DBMS Lab - cl1",
-				""
+				null
 			},
 			{
 				"DSM Tut - cr15",
@@ -1295,7 +1295,7 @@
 				"TDM - lt5",
 				"AP Lab - lt5",
 				"ES - lt5",
-				""
+				null
 			},
 			{
 				"UI/UX Lab - cl2",
@@ -1304,7 +1304,7 @@
 				"TDM - lt5",
 				"AP Lab - lt5",
 				"ES - lt5",
-				""
+				null
 			},
 			{
 				"AP Lab - cl4",
@@ -1313,7 +1313,7 @@
 				"TDM - lt5",
 				"AP Lab - lt5",
 				"ES - lt5",
-				""
+				null
 			},
 			{
 				"AP Lab - cl4",
@@ -1322,16 +1322,16 @@
 				"TDM - lt5",
 				"AP Lab - lt5",
 				"ES - lt5",
-				""
+				null
 			},
 			{
 				"TDM Tut - cr11",
-				"",
+				null,
 				"DSM - lt5",
 				"TDM - lt5",
 				"AP Lab - lt5",
 				"ES - lt5",
-				""
+				null
 			},
 			{
 				"DSM Lab",
@@ -1340,45 +1340,45 @@
 				"DBMS - lt1",
 				"DS Tut - cr12",
 				"DSM - lt1",
-				""
+				null
 			},
 			{
 				"DS Tut - cr12",
 				"DSM Tut - cr15",
 				"DS - lt1",
 				"DBMS - lt1",
-				"",
+				null,
 				"DSM - lt1",
-				""
+				null
 			},
 			{
-				"",
-				"",
+				null,
+				null,
 				"DS - lt1",
 				"DBMS - lt1",
 				"DSM Tut - cr15",
 				"DSM - lt1",
-				""
+				null
 			},
 			{
-				"",
-				"",
+				null,
+				null,
 				"DS - lt1",
 				"DBMS - lt1",
 				"TDM Tut - cr11",
 				"DSM - lt1",
-				""
+				null
 			}
 		},
 		{
 			{
 				"DSM Tut - cr15",
-				"",
+				null,
 				"DSM - lt5",
 				"TDM - lt5",
 				"DBMS Lab - cl1",
 				"DBMS Lab - cl1",
-				""
+				null
 			},
 			{
 				"DSM Lab",
@@ -1387,7 +1387,7 @@
 				"TDM - lt5",
 				"DBMS Lab - cl1",
 				"DBMS Lab - cl1",
-				""
+				null
 			},
 			{
 				"AP Lab - cl4",
@@ -1396,7 +1396,7 @@
 				"TDM - lt5",
 				"DS Tut - cr12",
 				"TDM Tut - cr11",
-				""
+				null
 			},
 			{
 				"AP Lab - cl4",
@@ -1405,34 +1405,34 @@
 				"TDM - lt5",
 				"DSM Lab",
 				"DSM Lab",
-				""
+				null
 			},
 			{
 				"UI/UX Lab - cl2",
 				"UI/UX Lab - cl2",
 				"DSM - lt5",
 				"TDM - lt5",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS- lt5",
-				"",
-				"",
+				null,
+				null,
 				"TDM Tut - cr11",
-				"",
-				""
+				null,
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS- lt5",
 				"DSM Lab",
 				"DSM Lab",
-				"",
+				null,
 				"DSM Tut - cr15",
-				""
+				null
 			},
 			{
 				"DS - lt5",
@@ -1441,61 +1441,61 @@
 				"UI/UX Lab - cl2",
 				"DS Lab - cl4",
 				"DS Lab - cl4",
-				""
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS- lt5",
-				"",
-				"",
+				null,
+				null,
 				"DS Lab - cl4",
 				"DS Lab - cl4",
-				""
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS- lt5",
 				"DBMS Lab - cl1",
 				"DBMS Lab - cl1",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"TDM Tut - cr11",
 				"TDM - lt1",
-				"",
+				null,
 				"PCP - cr25",
 				"AP Lab - lt1",
 				"DSM - lt1",
-				""
+				null
 			},
 			{
-				"",
+				null,
 				"TDM - lt1",
-				"",
+				null,
 				"PCP - cr25",
 				"AP Lab - lt1",
 				"DSM - lt1",
-				""
+				null
 			},
 			{
-				"",
+				null,
 				"TDM - lt1",
-				"",
+				null,
 				"DS Lab - cl4",
 				"AP Lab - lt1",
 				"DSM - lt1",
-				""
+				null
 			},
 			{
 				"DS Tut - cr12",
 				"TDM - lt1",
-				"",
+				null,
 				"DS Lab - cl4",
 				"AP Lab - lt1",
 				"DSM - lt1",
-				""
+				null
 			}
 		},
 		{
@@ -1504,45 +1504,45 @@
 				"DBMS - lt5",
 				"UI/UX Lab - cl2",
 				"UI/UX Lab - cl2",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS - lt5",
-				"",
+				null,
 				"DSM Tut - cr15",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS - lt5",
-				"",
-				"",
+				null,
+				null,
 				"DBMS Lab - cl1",
 				"DBMS Lab - cl1",
-				""
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS - lt5",
-				"",
-				"",
+				null,
+				null,
 				"DBMS Lab - cl1",
 				"DBMS Lab - cl1",
-				""
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS - lt5",
 				"DSM Lab",
 				"DSM Lab",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"UI/UX Lab - cl2",
@@ -1551,222 +1551,870 @@
 				"ES - lt5",
 				"PCP - cr25",
 				"PCP - cr25",
-				""
+				null
 			},
 			{
-				"",
-				"",
+				null,
+				null,
 				"DSM - lt5",
 				"ES - lt5",
 				"PCP - cr25",
 				"PCP - cr25",
-				""
+				null
 			},
 			{
 				"DSM Tut - cr15",
-				"",
+				null,
 				"DSM - lt5",
 				"ES - lt5",
-				"",
+				null,
 				"TDM Tut - cr11",
-				""
+				null
 			},
 			{
 				"DSM Lab",
 				"DSM Lab",
 				"DSM - lt5",
 				"ES - lt5",
-				"",
+				null,
 				"DSM Tut - cr15",
-				""
+				null
 			},
 			{
-				"",
-				"",
+				null,
+				null,
 				"DSM - lt5",
 				"ES - lt5",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"AP Lab - cl4",
 				"AP Lab - cl4",
 				"DS - lt1",
 				"DBMS - lt1",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"AP Lab - cl4",
 				"AP Lab - cl4",
 				"DS - lt1",
 				"DBMS - lt1",
-				"",
-				"",
-				""
+				"TDM - cr11",
+				null,
+				null
 			},
 			{
 				"TDM Tut - cr11",
-				"",
+				null,
 				"DS - lt1",
 				"DBMS - lt1",
-				"",
+				null,
 				"UI/UX Lab - cl2",
-				""
+				null
 			},
 			{
-				"",
+				null,
 				"DSM Tut - cr15",
 				"DS - lt1",
 				"DBMS - lt1",
-				"",
+				null,
 				"DSM Lab",
-				""
+				null
 			}
 		},
 		{
 			{
-				"",
-				"",
+				null,
+				null,
 				"DSM - lt5",
 				"ES - lt5",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"TDM Tut - cr11",
-				"",
+				null,
 				"DSM - lt5",
 				"ES - lt5",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"DSM Tut - cr15",
-				"",
+				null,
 				"DSM - lt5",
 				"ES - lt5",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
-				"",
+				null,
 				"TDM Tut - cr11",
 				"DSM - lt5",
 				"ES - lt5",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
-				"",
+				null,
 				"DS Tut - cr12",
 				"DSM - lt5",
 				"ES - lt5",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS - lt5",
-				"",
-				"",
-				"",
-				"",
-				""
+				null,
+				null,
+				null,
+				null,
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS - lt5",
-				"",
+				null,
 				"TDM Tut - cr11",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS - lt5",
-				"",
-				"",
-				"",
-				"",
-				""
+				null,
+				null,
+				null,
+				null,
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS - lt5",
 				"UI/UX Lab - cl2",
 				"UI/UX Lab - cl2",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"DS - lt5",
 				"DBMS - lt5",
 				"DSM Lab",
 				"DSM Lab",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
-				"",
-				"",
+				null,
+				null,
 				"DBMS Lab - cl1",
 				"DBMS Lab - cl1",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
-				"",
-				"",
+				null,
+				null,
 				"DBMS Lab - cl1",
 				"DBMS Lab - cl1",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"DSM Lab",
 				"DSM Lab",
 				"AP Lab - cl4",
 				"AP Lab - cl4",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			},
 			{
 				"UI/UX Lab - cl2",
 				"UI/UX Lab - cl2",
 				"AP Lab - cl4",
 				"AP Lab - cl4",
-				"",
-				"",
-				""
+				null,
+				null,
+				null
 			}
 		}
 	},
 	{
 		{
+			{
+				"PTRP - lt1",
+				"TOC - lt1",
+				"OSS Lab - cl5",
+				"OSS Lab - cl5",
+				null,
+				"FSD - lt1",
+				null
+			},
+			{
+				"PTRP - lt1",
+				"TOC - lt1",
+				"OSS Lab - cl5",
+				"OSS Lab - cl5",
+				null,
+				"FSD - lt1",
+				null
+			},
+			{
+				"PTRP - lt1",
+				"TOC - lt1",
+				"PTRP Tut - cr24",
+				"TOC Tut - cr29",
+				null,
+				"FSD - lt1",
+				null
+			},
+			{
+				"PTRP - lt1",
+				"TOC - lt1",
+				null,
+				null,
+				null,
+				"FSD - lt1",
+				null
+			},
+			{
+				"COE Tut - cr27",
+				null,
+				"COE - lt2",
+				"AP Lab - lt2",
+				null,
+				null,
+				null
+			},
+			{
+				null,
+				null,
+				"COE - lt2",
+				"AP Lab - lt2",
+				null,
+				null,
+				null
+			},
+			{
+				"AP Lab - cl5",
+				"AP Lab - cl5",
+				"COE - lt2",
+				"AP Lab - lt2",
+				null,
+				"COE Tut - cr27",
+				null
+			},
+			{
+				"AP Lab - cl5",
+				"AP Lab - cl5",
+				"COE - lt2",
+				"AP Lab - lt2",
+				null,
+				null,
+				null
+			},
+			{
+				"FSD - lt2",
+				null,
+				null,
+				"PTRP Tut - cr24",
+				"TOC - lt1",
+				"PTRP - lt2",
+				null
+			},
+			{
+				"FSD - lt2",
+				null,
+				null,
+				null,
+				"TOC - lt1",
+				"PTRP - lt2",
+				null
+			},
+			{
+				"FSD - lt2",
+				null,
+				null,
+				null,
+				"TOC - lt1",
+				"PTRP - lt2",
+				null
+			},
+			{
+				"FSD - lt2",
+				null,
+				null,
+				null,
+				"TOC - lt1",
+				"PTRP - lt2",
+				null
+			}
 		},
 		{
+			{
+				"AP Lab - cl5",
+				"AP Lab - cl5",
+				"PTRP Tut - cr24",
+				"TOC Tut - cr9",
+				null,
+				"FSD - lt1",
+				null
+			},
+			{
+				"AP Lab - cl5",
+				"AP Lab - cl5",
+				null,
+				null,
+				null,
+				"FSD - lt1",
+				null
+			},
+			{
+				null,
+				null,
+				"OSS Lab - cl5",
+				"OSS Lab - cl5",
+				null,
+				"FSD - lt1",
+				null
+			},
+			{
+				null,
+				null,
+				"OSS Lab - cl5",
+				"OSS Lab - cl5",
+				null,
+				"FSD - lt1",
+				null
+			},
+			{
+				"FSD - lt2",
+				"TOC - lt2",
+				null,
+				"PTRP - lt11",
+				null,
+				"PTRP Tut - cr24",
+				null
+			},
+			{
+				"FSD - lt2",
+				"TOC - lt2",
+				null,
+				"PTRP - lt11",
+				null,
+				null,
+				null
+			},
+			{
+				"FSD - lt2",
+				"TOC - lt2",
+				null,
+				"PTRP - lt11",
+				null,
+				null,
+				null
+			},
+			{
+				"FSD - lt2",
+				"TOC - lt2",
+				null,
+				"PTRP - lt11",
+				null,
+				null,
+				null
+			},
+			{
+				"COE Tut - cr27",
+				null,
+				"COE - lt2",
+				"AP Lab - lt2",
+				null,
+				"TOC Tut - cr17",
+				null
+			},
+			{
+				"TOC Tut - cr17",
+				null,
+				"COE - lt2",
+				"AP Lab - lt2",
+				null,
+				"COE Tut - cr27",
+				null
+			},
+			{
+				null,
+				null,
+				"COE - lt2",
+				"AP Lab - lt2",
+				null,
+				null,
+				null
+			},
+			{
+				null,
+				null,
+				"COE - lt2",
+				"AP Lab - lt2",
+				null,
+				null,
+				null
+			}
 		},
 		{
+			{
+				"PTRP - lt1",
+				"TOC - lt1",
+				null,
+				null,
+				null,
+				null,
+				null
+			},
+			{
+				"PTRP - lt1",
+				"TOC - lt1",
+				null,
+				null,
+				null,
+				null,
+				null
+			},
+			{
+				"PTRP - lt1",
+				"TOC - lt1",
+				null,
+				null,
+				null,
+				null,
+				null
+			},
+			{
+				"PTRP - lt1",
+				"TOC - lt1",
+				null,
+				null,
+				null,
+				"COE Tut - cr27",
+				null
+			},
+			{
+				"AP Lab - cl5",
+				"AP Lab - cl5",
+				"OSS Lab - cl5",
+				"OSS Lab - cl5",
+				null,
+				"TOC Tut - cr17",
+				null
+			},
+			{
+				"AP Lab - cl5",
+				"AP Lab - cl5",
+				"OSS Lab - cl5",
+				"OSS Lab - cl5",
+				null,
+				null,
+				null
+			},
+			{
+				"TOC Tut - cr9",
+				null,
+				null,
+				null,
+				null,
+				null,
+				null
+			},
+			{
+				"COE Tut - cr27",
+				null,
+				"PTRP Tut - cr24",
+				null,
+				null,
+				null,
+				null
+			},
+			{
+				"FSD - lt2",
+				null,
+				"COE - lt2",
+				"TOC - lt2",
+				null,
+				"PTRP - lt2",
+				null
+			},
+			{
+				"FSD - lt2",
+				null,
+				"COE - lt2",
+				"TOC - lt2",
+				null,
+				"PTRP - lt2",
+				null
+			},
+			{
+				"FSD - lt2",
+				null,
+				"COE - lt2",
+				"TOC - lt2",
+				null,
+				"PTRP - lt2",
+				null
+			},
+			{
+				"FSD - lt2",
+				null,
+				"COE - lt2",
+				"TOC - lt2",
+				null,
+				"PTRP - lt2",
+				null
+			}
 		},
 		{
+			{
+				null,
+				null,
+				"COE - lt2",
+				"AP Lab - lt2",
+				null,
+				null,
+				null
+			},
+			{
+				null,
+				null,
+				"COE - lt2",
+				"AP Lab - lt2",
+				null,
+				"COE Tut - cr27",
+				null
+			},
+			{
+				null,
+				null,
+				"COE - lt2",
+				"AP Lab - lt2",
+				null,
+				null,
+				null
+			},
+			{
+				null,
+				null,
+				"COE - lt2",
+				"AP Lab - lt2",
+				null,
+				"PTRP Tut - cr24",
+				null
+			},
+			{
+				"FSD - lt1",
+				"TOC - lt2",
+				null,
+				null,
+				null,
+				"PTRP - lt2",
+				null
+			},
+			{
+				"FSD - lt1",
+				"TOC - lt2",
+				"PTRP Tut - cr24",
+				null,
+				null,
+				"PTRP - lt2",
+				null
+			},
+			{
+				"FSD - lt1",
+				"TOC - lt2",
+				"OSS Lab - cl5",
+				"OSS Lab - cl5",
+				null,
+				"PTRP - lt2",
+				null
+			},
+			{
+				"FSD - lt1",
+				"TOC - lt2",
+				"OSS Lab - cl5",
+				"OSS Lab - cl5",
+				null,
+				"PTRP - lt2",
+				null
+			},
+			{
+				"AP Lab - cl5",
+				"AP Lab - cl5",
+				null,
+				null,
+				null,
+				null,
+				null
+			},
+			{
+				"AP Lab - cl5",
+				"AP Lab - cl5",
+				null,
+				null,
+				null,
+				null,
+				null
+			},
+			{
+				"COE Tut - cr27",
+				null,
+				null,
+				"TOC Tut - cr17",
+				null,
+				null,
+				null
+			},
+			{
+				"TOC Tut - cr9",
+				null,
+				null,
+				"PTRP Tut - cr21",
+				null,
+				null,
+				null
+			}
 		},
 		{
+			{
+				"PTRP - lt1",
+				"TOC - lt1",
+				null,
+				null,
+				null,
+				null,
+				null
+			},
+			{
+				"PTRP - lt1",
+				"TOC - lt1",
+				"PRTP Tut - cr24",
+				"TOC Tut - cr17",
+				null,
+				null,
+				null
+			},
+			{
+				"PTRP - lt1",
+				"TOC - lt1",
+				null,
+				null,
+				null,
+				"COE - cr27",
+				null
+			},
+			{
+				"PTRP - lt1",
+				"TOC - lt1",
+				null,
+				null,
+				null,
+				"TOC - cr17",
+				null
+			},
+			{
+				null,
+				null,
+				"COE - lt2",
+				"PTRP - lt11",
+				null,
+				null,
+				null
+			},
+			{
+				"COE Tut - cr27",
+				null,
+				"COE - lt2",
+				"PTRP - lt11",
+				null,
+				null,
+				null
+			},
+			{
+				null,
+				null,
+				"COE - lt2",
+				"PTRP - lt11",
+				null,
+				null,
+				null
+			},
+			{
+				"TOC Tut - cr9",
+				null,
+				"COE - lt2",
+				"PTRP - lt11",
+				null,
+				null,
+				null
+			},
+			{
+				null,
+				null,
+				"OSS Lab - cl5",
+				"OSS Lab - cl5",
+				null,
+				"FSD - lt1",
+				null
+			},
+			{
+				null,
+				null,
+				"OSS Lab - cl5",
+				"OSS Lab - cl5",
+				null,
+				"FSD - lt1",
+				null
+			},
+			{
+				"AP Lab - cl5",
+				"AP Lab - cl5",
+				null,
+				"PTRP Tut - cr24",
+				null,
+				"FSD - lt1",
+				null
+			},
+			{
+				"AP Lab - cl5",
+				"AP Lab - cl5",
+				null,
+				"COE Tut - cr27",
+				null,
+				"FSD - lt1",
+				null
+			}
 		},
 		{
+			{
+				"COE Tut - cr27",
+				null,
+				"COE - lt2",
+				"FSD - lt2",
+				null,
+				null,
+				null
+			},
+			{
+				null,
+				null,
+				"COE - lt2",
+				"FSD - lt2",
+				null,
+				null,
+				null
+			},
+			{
+				"AP Lab - cl5",
+				"AP Lab - cl5",
+				"COE - lt2",
+				"FSD - lt2",
+				null,
+				null,
+				null
+			},
+			{
+				"AP Lab - cl5",
+				"AP Lab - cl5",
+				"COE - lt2",
+				"FSD - lt2",
+				null,
+				null,
+				null
+			},
+			{
+				"FSD - lt2",
+				"TOC - lt2",
+				null,
+				null,
+				null,
+				null,
+				null
+			},
+			{
+				"FSD - lt2",
+				"TOC - lt2",
+				null,
+				null,
+				null,
+				null,
+				null
+			},
+			{
+				"FSD - lt2",
+				"TOC - lt2",
+				null,
+				"TOC Tut - cr17",
+				null,
+				null,
+				null
+			},
+			{
+				"FSD - lt2",
+				"TOC - lt2",
+				null,
+				null,
+				null,
+				null,
+				null
+			},
+			{
+				"TOC - lt1",
+				"PTRP - lt11",
+				null,
+				null,
+				null,
+				null,
+				null
+			},
+			{
+				"TOC - lt1",
+				"PTRP - lt11",
+				null,
+				"PTRP Tut - cr24",
+				null,
+				null,
+				null
+			},
+			{
+				"TOC - lt1",
+				"PTRP - lt11",
+				"OSS Lab - cl5",
+				"OSS Lab - cl5",
+				null,
+				null,
+				null
+			},
+			{
+				"TOC - lt1",
+				"PTRP - lt11",
+				"OSS Lab - cl5",
+				"OSS Lab - cl5",
+				null,
+				null,
+				null
+			}
 		}
 	},
 	{

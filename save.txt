@@ -1,6 +1,6 @@
 18
 14
-0
+12
 0
 Math - lt6
 Eng - lt6
@@ -1252,7 +1252,7 @@ AP Lab - cl4
 AP Lab - cl4
 DS - lt1
 DBMS - lt1
-
+TDM - cr11
 
 
 
@@ -1343,6 +1343,510 @@ UI/UX Lab - cl2
 UI/UX Lab - cl2
 AP Lab - cl4
 AP Lab - cl4
+
+
+
+PTRP - lt1
+TOC - lt1
+OSS Lab - cl5
+OSS Lab - cl5
+
+FSD - lt1
+
+AP Lab - cl5
+AP Lab - cl5
+PTRP Tut - cr24
+TOC Tut - cr9
+
+FSD - lt1
+
+PTRP - lt1
+TOC - lt1
+
+
+
+
+
+
+
+COE - lt2
+AP Lab - lt2
+
+
+
+PTRP - lt1
+TOC - lt1
+
+
+
+
+
+COE Tut - cr27
+
+COE - lt2
+FSD - lt2
+
+
+
+PTRP - lt1
+TOC - lt1
+OSS Lab - cl5
+OSS Lab - cl5
+
+FSD - lt1
+
+AP Lab - cl5
+AP Lab - cl5
+
+
+
+FSD - lt1
+
+PTRP - lt1
+TOC - lt1
+
+
+
+
+
+
+
+COE - lt2
+AP Lab - lt2
+
+COE Tut - cr27
+
+PTRP - lt1
+TOC - lt1
+PRTP Tut - cr24
+TOC Tut - cr17
+
+
+
+
+
+COE - lt2
+FSD - lt2
+
+
+
+PTRP - lt1
+TOC - lt1
+PTRP Tut - cr24
+TOC Tut - cr29
+
+FSD - lt1
+
+
+
+OSS Lab - cl5
+OSS Lab - cl5
+
+FSD - lt1
+
+PTRP - lt1
+TOC - lt1
+
+
+
+
+
+
+
+COE - lt2
+AP Lab - lt2
+
+
+
+PTRP - lt1
+TOC - lt1
+
+
+
+COE - cr27
+
+AP Lab - cl5
+AP Lab - cl5
+COE - lt2
+FSD - lt2
+
+
+
+PTRP - lt1
+TOC - lt1
+
+
+
+FSD - lt1
+
+
+
+OSS Lab - cl5
+OSS Lab - cl5
+
+FSD - lt1
+
+PTRP - lt1
+TOC - lt1
+
+
+
+COE Tut - cr27
+
+
+
+COE - lt2
+AP Lab - lt2
+
+PTRP Tut - cr24
+
+PTRP - lt1
+TOC - lt1
+
+
+
+TOC - cr17
+
+AP Lab - cl5
+AP Lab - cl5
+COE - lt2
+FSD - lt2
+
+
+
+COE Tut - cr27
+
+COE - lt2
+AP Lab - lt2
+
+
+
+FSD - lt2
+TOC - lt2
+
+PTRP - lt11
+
+PTRP Tut - cr24
+
+AP Lab - cl5
+AP Lab - cl5
+OSS Lab - cl5
+OSS Lab - cl5
+
+TOC Tut - cr17
+
+FSD - lt1
+TOC - lt2
+
+
+
+PTRP - lt2
+
+
+
+COE - lt2
+PTRP - lt11
+
+
+
+FSD - lt2
+TOC - lt2
+
+
+
+
+
+
+
+COE - lt2
+AP Lab - lt2
+
+
+
+FSD - lt2
+TOC - lt2
+
+PTRP - lt11
+
+
+
+AP Lab - cl5
+AP Lab - cl5
+OSS Lab - cl5
+OSS Lab - cl5
+
+
+
+FSD - lt1
+TOC - lt2
+PTRP Tut - cr24
+
+
+PTRP - lt2
+
+COE Tut - cr27
+
+COE - lt2
+PTRP - lt11
+
+
+
+FSD - lt2
+TOC - lt2
+
+
+
+
+
+AP Lab - cl5
+AP Lab - cl5
+COE - lt2
+AP Lab - lt2
+
+COE Tut - cr27
+
+FSD - lt2
+TOC - lt2
+
+PTRP - lt11
+
+
+
+TOC Tut - cr9
+
+
+
+
+
+
+FSD - lt1
+TOC - lt2
+OSS Lab - cl5
+OSS Lab - cl5
+
+PTRP - lt2
+
+
+
+COE - lt2
+PTRP - lt11
+
+
+
+FSD - lt2
+TOC - lt2
+
+TOC Tut - cr17
+
+
+
+AP Lab - cl5
+AP Lab - cl5
+COE - lt2
+AP Lab - lt2
+
+
+
+FSD - lt2
+TOC - lt2
+
+PTRP - lt11
+
+
+
+COE Tut - cr27
+
+PTRP Tut - cr24
+
+
+
+
+FSD - lt1
+TOC - lt2
+OSS Lab - cl5
+OSS Lab - cl5
+
+PTRP - lt2
+
+TOC Tut - cr9
+
+COE - lt2
+PTRP - lt11
+
+
+
+FSD - lt2
+TOC - lt2
+
+
+
+
+
+FSD - lt2
+
+
+PTRP Tut - cr24
+TOC - lt1
+PTRP - lt2
+
+COE Tut - cr27
+
+COE - lt2
+AP Lab - lt2
+
+TOC Tut - cr17
+
+FSD - lt2
+
+COE - lt2
+TOC - lt2
+
+PTRP - lt2
+
+AP Lab - cl5
+AP Lab - cl5
+
+
+
+
+
+
+
+OSS Lab - cl5
+OSS Lab - cl5
+
+FSD - lt1
+
+TOC - lt1
+PTRP - lt11
+
+
+
+
+
+FSD - lt2
+
+
+
+TOC - lt1
+PTRP - lt2
+
+TOC Tut - cr17
+
+COE - lt2
+AP Lab - lt2
+
+COE Tut - cr27
+
+FSD - lt2
+
+COE - lt2
+TOC - lt2
+
+PTRP - lt2
+
+AP Lab - cl5
+AP Lab - cl5
+
+
+
+
+
+
+
+OSS Lab - cl5
+OSS Lab - cl5
+
+FSD - lt1
+
+TOC - lt1
+PTRP - lt11
+
+PTRP Tut - cr24
+
+
+
+FSD - lt2
+
+
+
+TOC - lt1
+PTRP - lt2
+
+
+
+COE - lt2
+AP Lab - lt2
+
+
+
+FSD - lt2
+
+COE - lt2
+TOC - lt2
+
+PTRP - lt2
+
+COE Tut - cr27
+
+
+TOC Tut - cr17
+
+
+
+AP Lab - cl5
+AP Lab - cl5
+
+PTRP Tut - cr24
+
+FSD - lt1
+
+TOC - lt1
+PTRP - lt11
+OSS Lab - cl5
+OSS Lab - cl5
+
+
+
+FSD - lt2
+
+
+
+TOC - lt1
+PTRP - lt2
+
+
+
+COE - lt2
+AP Lab - lt2
+
+
+
+FSD - lt2
+
+COE - lt2
+TOC - lt2
+
+PTRP - lt2
+
+TOC Tut - cr9
+
+
+PTRP Tut - cr21
+
+
+
+AP Lab - cl5
+AP Lab - cl5
+
+COE Tut - cr27
+
+FSD - lt1
+
+TOC - lt1
+PTRP - lt11
+OSS Lab - cl5
+OSS Lab - cl5
 
 
 

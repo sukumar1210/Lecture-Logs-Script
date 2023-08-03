@@ -47,8 +47,8 @@ string display_java(vector<vector<vector<vector<string>>>>& data, bool export_=f
             for(int j=0; j<data[i].size(); j++){
                 o+=(export_?"":"\t\t\t{\n");
                 for(int l=0; l<sub; l++){
-                    if (l!=sub-1) o+=(export_?"":"\t\t\t\t\"")+data[i][j][k][l]+(export_?"":"\",")+"\n";
-                    else o+=(export_?"":"\t\t\t\t\"")+data[i][j][k][l]+(export_?"":"\"")+"\n";
+                    if (l!=sub-1) o+=(export_?"":(string("\t\t\t\t")+(data[i][j][k][l]==""?"":"\"")))+(data[i][j][k][l]==""?"null":data[i][j][k][l])+(export_?"":((data[i][j][k][l]==""?"":"\"")+string(",")))+"\n";
+                    else o+=(export_?"":(string("\t\t\t\t")+(data[i][j][k][l]==""?"":"\"")))+(data[i][j][k][l]==""?"null":data[i][j][k][l])+(export_?"":((data[i][j][k][l]==""?"":"\"")))+"\n";
                 }
                 if (j!=data[i].size()-1) o+=(export_?"":"\t\t\t},\n");
                 else o+=(export_?"":"\t\t\t}\n");
@@ -202,6 +202,7 @@ void bulk_mod( vector<vector<vector<vector<string>>>>& data ){
             cout<<(t-1!=0?t-1:12)<<"-"<<t<<": ";
             getline(cin, s);
             if (s=="") continue;
+            else if (s=="null") s="";
             // cin>>s;
             for(int j:grp){
                 data[i][j][k][l]=s;
